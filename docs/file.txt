@@ -1,0 +1,1318 @@
+Clockwise from upper left: A Nile crocodile, the common sunflower, Amoeba proteus, Sarcoscypha coccinea, the fruit fly, and Escherichia coli.
+ Biology
+ Biology is the scientific study of life and living organisms. It is a broad natural science that encompasses a wide range of fields and
+ unifying principles that explain the structure, function, growth, origin, evolution, and distribution of life. Central to biology are five
+ fundamental themes: the cell as the basic unit of life, genes and heredity as the basis of inheritance, evolution as the driver of biological
+ diversity, energy transformation for sustaining life processes, and the maintenance of internal stability (homeostasis).[1][2]
+ Biology examines life across multiple levels of organization, from molecules and cells to organisms, populations, and ecosystems.
+ Subdisciplines include molecular biology, physiology, ecology, evolutionary biology, developmental biology, and systematics, among
+ others. Each of these fields applies a range of methods to investigate biological phenomena, including observation, experimentation, and
+ mathematical modeling. Modern biology is grounded in the theory of evolution by natural selection, first articulated by Charles Darwin,
+ and in the molecular understanding of genes encoded in DNA. The discovery of the structure of DNA and advances in molecular genetics
+ have transformed many areas of biology, leading to applications in medicine, agriculture, biotechnology, and environmental science.
+ Life on Earth is believed to have originated over 3.7 billion years ago.[3] Today, it includes a vast diversity of organisms—from single
+celled archaea and bacteria to complex multicellular plants, fungi, and animals. Biologists classify organisms based on shared
+ characteristics and evolutionary relationships, using taxonomic and phylogenetic frameworks. These organisms interact with each other
+ and with their environments in ecosystems, where they play roles in energy flow and nutrient cycling. As a constantly evolving field,
+ biology incorporates new discoveries and technologies that enhance the understanding of life and its processes, while contributing to
+ solutions for challenges such as disease, climate change, and biodiversity loss.
+ From Greek bios, life, (from Proto-Indo-European root *gwei-, to live) and logy, study of. The compound was coined in 1800 by Karl
+ Friedrich Burdach and in 1802 used by both German naturalist Gottfried Reinhold Treviranus and Jean-Baptiste Lamarck.[4]
+ The earliest of roots of science, which included medicine, can be traced to ancient Egypt and Mesopotamia in around 3000 to 1200
+ BCE.[5][6] Their contributions shaped ancient Greek natural philosophy.[7][5][6][8][9] Ancient Greek philosophers such as Aristotle (384
+322 BCE) contributed extensively to the development of biological knowledge.[10] He explored biological causation and the diversity of
+ life. His successor, Theophrastus, began the scientific study of plants.[11] Scholars of the medieval Islamic world who wrote on biology
+ included al-Jahiz (781–869), Al-Dīnawarī (828–896), who wrote on botany,[12] and Rhazes (865–925) who wrote on anatomy and
+ physiology. Medicine was especially well studied by Islamic scholars working in Greek philosopher traditions, while natural history drew
+ heavily on Aristotelian thought.
+ Etymology
+ History
+Drawing of what now are called Schwann
+ cells by one of the founders of cell theory,
+ Theodor Schwann.
+ In 1842, Charles Darwin
+ penned his first sketch of On
+ the Origin of Species.[18]
+ Biology began to quickly develop with Anton van Leeuwenhoek's dramatic improvement of
+ the microscope. It was then that scholars discovered spermatozoa, bacteria, infusoria and the
+ diversity of microscopic life. Investigations by Jan Swammerdam led to new interest in
+ entomology and helped to develop techniques of microscopic dissection and staining.[13]
+ Advances in microscopy had a profound impact on biological thinking. In the early 19th
+ century, biologists pointed to the central importance of the cell. In 1838, Schleiden and
+ Schwann began promoting the now universal ideas that (1) the basic unit of organisms is the
+ cell and (2) that individual cells have all the characteristics of life, although they opposed the
+ idea that (3) all cells come from the division of other cells, continuing to support spontaneous
+ generation. However, Robert Remak and Rudolf Virchow were able to reify the third tenet, and
+ by the 1860s most biologists accepted all three tenets which consolidated into cell
+ theory.[14][15]
+ Meanwhile, taxonomy and classification became the focus of natural historians. Carl Linnaeus
+ published a basic taxonomy for the natural world in 1735, and in the 1750s introduced
+ scientific names for all his species.[16] Georges-Louis Leclerc, Comte de Buffon, treated
+ species as artificial categories and living forms as malleable—even suggesting the possibility
+ of common descent.[17]
+ Serious evolutionary thinking originated with the works of Jean-Baptiste Lamarck, who
+ presented a coherent theory of evolution.[19] The British naturalist Charles Darwin, combining
+ the biogeographical approach of Humboldt, the uniformitarian geology of Lyell, Malthus's writings on
+ population growth, and his own morphological expertise and extensive natural observations, forged a
+ more successful evolutionary theory based on natural selection; similar reasoning and evidence led
+ Alfred Russel Wallace to independently reach the same conclusions.[20][21]
+ The basis for modern genetics began with the work of Gregor Mendel in 1865.[22] This outlined the
+ principles of biological inheritance.[23] However, the significance of his work was not realized until the
+ early 20th century when evolution became a unified theory as the modern synthesis reconciled
+ Darwinian evolution with classical genetics.[24] In the 1940s and early 1950s, a series of experiments by
+ Alfred Hershey and Martha Chase pointed to DNA as the component of chromosomes that held the
+ trait-carrying units that had become known as genes. A focus on new kinds of model organisms such as
+ viruses and bacteria, along with the discovery of the double-helical structure of DNA by James Watson
+ and Francis Crick in 1953, marked the transition to the era of molecular genetics. From the 1950s
+ onwards, biology has been vastly extended in the molecular domain. The genetic code was cracked by
+ Har Gobind Khorana, Robert W. Holley and Marshall Warren Nirenberg after DNA was understood to
+ contain codons. The Human Genome Project was launched in 1990 to map the human genome.[25]
+ All organisms are made up of chemical elements;[26] oxygen, carbon, hydrogen, and nitrogen account for most (96%) of the mass of all
+ organisms, with calcium, phosphorus, sulfur, sodium, chlorine, and magnesium constituting essentially all the remainder. Different
+ elements can combine to form compounds such as water, which is fundamental to life.[26] Biochemistry is the study of chemical processes
+ within and relating to living organisms. Molecular biology is the branch of biology that seeks to understand the molecular basis of
+ biological activity in and between cells, including molecular synthesis, modification, mechanisms, and interactions.
+ Life arose from the Earth's first ocean, which formed some 3.8 billion years ago.[27] Since then, water continues to be the most abundant
+ molecule in every organism. Water is important to life because it is an effective solvent, capable of dissolving solutes such as sodium and
+ chloride ions or other small molecules to form an aqueous solution. Once dissolved in water, these solutes are more likely to come in
+ contact with one another and therefore take part in chemical reactions that sustain life.[27] In terms of its molecular structure, water is a
+ small polar molecule with a bent shape formed by the polar covalent bonds of two hydrogen (H) atoms to one oxygen (O) atom (H2O).[27]
+ Because the O–H bonds are polar, the oxygen atom has a slight negative charge and the two hydrogen atoms have a slight positive
+ charge.[27] This polar property of water allows it to attract other water molecules via hydrogen bonds, which makes water cohesive.[27]
+ Surface tension results from the cohesive force due to the attraction between molecules at the surface of the liquid.[27] Water is also
+ adhesive as it is able to adhere to the surface of any polar or charged non-water molecules.[27] Water is denser as a liquid than it is as a
+ solid (or ice).[27] This unique property of water allows ice to float above liquid water such as ponds, lakes, and oceans, thereby insulating
+ Chemical basis
+ Atoms and molecules
+ Water
+Model of hydrogen bonds (1)
+ between molecules of water
+ Organic compounds
+ such as glucose are
+ vital to organisms.
+ The (a) primary, (b) secondary, (c) tertiary, and (d)
+ quaternary structures of a hemoglobin protein
+ the liquid below from the cold air above.[27] Water has the capacity to absorb energy, giving it a higher
+ specific heat capacity than other solvents such as ethanol.[27] Thus, a large amount of energy is needed
+ to break the hydrogen bonds between water molecules to convert liquid water into water vapor.[27] As a
+ molecule, water is not completely stable as each water molecule continuously dissociates into hydrogen
+ and hydroxyl ions before reforming into a water molecule again.[27] In pure water, the number of
+ hydrogen ions balances (or equals) the number of hydroxyl ions, resulting in a pH that is neutral.
+ Organic compounds are molecules that contain carbon bonded to another element such as hydrogen.[27]
+ With the exception of water, nearly all the molecules that make up each organism contain carbon.[27][28]
+ Carbon can form covalent bonds with up to four other atoms, enabling it to form diverse, large, and
+ complex molecules.[27][28] For example, a single carbon atom can form four single covalent bonds such
+ as in methane, two double covalent bonds such as in carbon dioxide (CO2), or a triple covalent bond such as in
+ carbon monoxide (CO). Moreover, carbon can form very long chains of interconnecting carbon–carbon bonds
+ such as octane or ring-like structures such as glucose.
+ The simplest form of an organic molecule is the hydrocarbon, which is a large family of organic compounds that
+ are composed of hydrogen atoms bonded to a chain of carbon atoms. A hydrocarbon backbone can be substituted
+ by other elements such as oxygen (O), hydrogen (H), phosphorus (P), and sulfur (S), which can change the
+ chemical behavior of that compound.[27] Groups of atoms that contain these elements (O-, H-, P-, and S-) and are
+ bonded to a central carbon atom or skeleton are called functional groups.[27] There are six prominent functional
+ groups that can be found in organisms: amino group, carboxyl group, carbonyl group, hydroxyl group, phosphate
+ group, and sulfhydryl group.[27]
+ In 1953, the Miller–Urey experiment showed that organic compounds could be synthesized abiotically within a closed system mimicking
+ the conditions of early Earth, thus suggesting that complex organic molecules could have arisen spontaneously in early Earth (see
+ abiogenesis).[29][27]
+ Macromolecules are large molecules made up of smaller subunits or
+ monomers.[30] Monomers include sugars, amino acids, and nucleotides.[31]
+ Carbohydrates include monomers and polymers of sugars.[32] Lipids are the only
+ class of macromolecules that are not made up of polymers. They include steroids,
+ phospholipids, and fats,[31] largely nonpolar and hydrophobic (water-repelling)
+ substances.[33] Proteins are the most diverse of the macromolecules. They include
+ enzymes, transport proteins, large signaling molecules, antibodies, and structural
+ proteins. The basic unit (or monomer) of a protein is an amino acid.[30] Twenty
+ amino acids are used in proteins.[30] Nucleic acids are polymers of nucleotides.[34]
+ Their function is to store, transmit, and express hereditary information.[31]
+ Cell theory states that cells are the fundamental units of life, that all living things
+ are composed of one or more cells, and that all cells arise from preexisting cells
+ through cell division.[35] Most cells are very small, with diameters ranging from 1
+ to 100 micrometers and are therefore only visible under a light or electron microscope.[36] There are generally two types of cells:
+ eukaryotic cells, which contain a nucleus, and prokaryotic cells, which do not. Prokaryotes are single-celled organisms such as bacteria,
+ whereas eukaryotes can be single-celled or multicellular. In multicellular organisms, every cell in the organism's body is derived
+ ultimately from a single cell in a fertilized egg.
+ Every cell is enclosed within a cell membrane that separates its cytoplasm from the extracellular space.[37] A cell membrane consists of a
+ lipid bilayer, including cholesterols that sit between phospholipids to maintain their fluidity at various temperatures. Cell membranes are
+ semipermeable, allowing small molecules such as oxygen, carbon dioxide, and water to pass through while restricting the movement of
+ larger molecules and charged particles such as ions.[38] Cell membranes also contain membrane proteins, including integral membrane
+ proteins that go across the membrane serving as membrane transporters, and peripheral proteins that loosely attach to the outer side of the
+ Organic compounds
+ Macromolecules
+ Cells
+ Cell structure
+[39] Cell membranes are involved in various
+ cell membrane, acting as enzymes shaping the cell.
+ cellular processes such as 
+cell adhesion, 
+storing electrical energy, and 
+cell signalling and serve
+ as the attachment surface for several extracellular structures such as a 
+cell wall, 
+and 
+cytoskeleton.
+ glycocalyx,
+ Within the cytoplasm of a cell, there
+ are 
+many biomolecules such as
+ proteins and 
+nucleic acids.
+ [40] In
+ addition to biomolecules, eukaryotic
+ cells have specialized structures called
+ organelles that have their own lipid
+ bilayers or are spatially units.
+ [41]
+ These organelles include the 
+or 
+Structure of an animal 
+various 
+organelles
+ cell depicting
+ cell nucleus, which contains most of the cell's DNA,
+ mitochondria, which generate 
+adenosine triphosphate (ATP) to power cellular
+ processes. Other organelles such as 
+endoplasmic reticulum and 
+Golgi apparatus
+ play a role in the synthesis and packaging of proteins, respectively. Biomolecules
+ such as proteins can be engulfed by 
+Structure of a plant cell
+ lysosomes, another specialized organelle.
+ Plant cells have additional organelles that distinguish them from 
+animal cells such
+ as a cell wall that provides support for the plant cell, 
+chloroplasts that harvest
+ sunlight energy to produce sugar, and 
+support as well as being involved in reproduction and breakdown of plant seeds.
+ up of 
+vacuoles that provide storage and structural
+ [41] Eukaryotic cells also have cytoskeleton that is made
+ microtubules, 
+intermediate filaments, and 
+of the cell and its organelles.
+ microfilaments, all of which provide support for the cell and are involved in the movement
+ [41] In terms of their structural composition, the microtubules are made up of 
+tubulin) whereas intermediate filaments are made up of fibrous proteins.
+ tubulin (e.g., 
+α-tubulin and 
+[41] Microfilaments are made up of 
+β
+actin molecules that interact
+ with other strands of proteins.
+ [41]
+ Metabolism
+ All cells require energy to sustain cellular processes. 
+Metabolism is the set of 
+chemical
+ reactions in an organism. The three main purposes of metabolism are: the conversion of food
+ to energy to run cellular processes; the conversion of food/fuel to monomer building blocks;
+ and the elimination of 
+metabolic wastes. These enzyme-catalyzed reactions allow organisms to
+ grow and reproduce, maintain their structures, and respond to their environments. Metabolic
+ reactions may be categorized as 
+catabolic—the breaking down of compounds (for example, the
+ breaking down of glucose to pyruvate by 
+cellular respiration); or 
+anabolic—the building up
+ (synthesis) of compounds (such as proteins, carbohydrates, lipids, and nucleic acids). Usually,
+ catabolism releases energy, and anabolism consumes energy. The chemical reactions of
+ metabolism are organized into 
+metabolic pathways, in which one chemical is transformed
+ through a series of steps into another chemical, each step being facilitated by a specific
+ enzyme. Enzymes are crucial to metabolism because they allow organisms to drive desirable
+ reactions that require energy that will not occur by themselves, by 
+coupling them to
+ spontaneous reactions that release energy. Enzymes act as 
+Example of an enzyme-catalysed
+ exothermic reaction
+ catalysts—they allow a reaction to proceed more rapidly without being
+ consumed by it—by reducing the amount of 
+activation energy needed to convert 
+reactants into 
+products. Enzymes also allow the
+ regulation of the rate of a metabolic reaction, for example in response to changes in the cell's environment or to signals from other cells.
+ Cellular respiration
+ Cellular respiration is a set of metabolic reactions and processes that take place in cells to convert 
+adenosine triphosphate (ATP), and then release waste products.
+ chemical energy from 
+[42] The reactions involved in respiration are 
+nutrients into
+ catabolic reactions, which
+ break large molecules into smaller ones, releasing energy. Respiration is one of the key ways a cell releases chemical energy to fuel
+ cellular activity. The overall reaction occurs in a series of biochemical steps, some of which are 
+redox reactions. Although cellular
+ respiration is technically a 
+combustion reaction, it clearly does not resemble one when it occurs in a cell because of the slow, controlled
+ release of energy from the series of reactions.
+ Sugar in the form of glucose is the main nutrient used by animal and plant cells in respiration. Cellular respiration involving oxygen is
+ called aerobic respiration, which has four stages: 
+glycolysis, 
+citric acid cycle (or Krebs cycle), 
+electron transport chain, and 
+phosphorylation.
+ [43] Glycolysis is a metabolic process that occurs in the cytoplasm whereby glucose is converted into two 
+oxidative
+ pyruvates, with
+ two net molecules of ATP being produced at the same time.
+ [43] Each pyruvate is then oxidized into 
+dehydrogenase complex, which also generates 
+acetyl-CoA by the 
+pyruvate
+ NADH and carbon dioxide. Acetyl-CoA enters the citric acid cycle, which takes places
+ inside the mitochondrial matrix. At the end of the cycle, the total yield from 1 glucose (or 2 pyruvates) is 6 NADH, 2 FADH2, and 2 ATP
+ molecules. Finally, the next stage is oxidative phosphorylation, which in eukaryotes, occurs in the 
+mitochondrial cristae. Oxidative
+phosphorylation comprises the electron transport chain, which is a
+ series of four 
+protein complexes that transfer electrons from one
+ complex to another, thereby releasing energy from NADH and FADH2
+ that is coupled to the pumping of protons (hydrogen ions) across the
+ inner mitochondrial membrane (
+ proton motive force.
+ chemiosmosis), which generates a
+ [43] Energy from the proton motive force drives the
+ enzyme 
+ATP synthase to synthesize more ATPs by 
+phosphorylating
+ ADPs. The transfer of electrons terminates with molecular oxygen
+ being the final 
+electron acceptor.
+ If oxygen were not present, pyruvate would not be metabolized by
+ cellular respiration but undergoes a process of 
+fermentation. The
+ pyruvate is not transported into the mitochondrion but remains in the
+ cytoplasm, where it is converted to 
+Respiration in a 
+eukaryotic cell
+ waste products that may be
+ removed from the cell. This serves the purpose of oxidizing the
+ electron carriers so that they can perform glycolysis again and
+ removing the excess pyruvate. Fermentation oxidizes NADH to NAD+
+ so it can be re-used in glycolysis. In the absence of oxygen, fermentation prevents the buildup of NADH in the cytoplasm and provides
+ NAD+ for glycolysis. This waste product varies depending on the organism. In skeletal muscles, the waste product is 
+of fermentation is called 
+lactic acid. This type
+ lactic acid fermentation. In strenuous exercise, when energy demands exceed energy supply, the respiratory chain
+ cannot process all of the hydrogen atoms joined by NADH. During anaerobic glycolysis, NAD+ regenerates when pairs of hydrogen
+ combine with pyruvate to form lactate. Lactate formation is catalyzed by lactate dehydrogenase in a reversible reaction. Lactate can also
+ be used as an indirect precursor for liver glycogen. During recovery, when oxygen becomes available, NAD+ attaches to hydrogen from
+ lactate to form ATP. In yeast, the waste products are ethanol and carbon dioxide. This type of fermentation is known as alcoholic or
+ ethanol fermentation. The ATP generated in this process is made by 
+substrate-level phosphorylation, which does not require oxygen.
+ Photosynthesis
+ Photosynthesis is a process used by plants and other organisms to 
+[44]
+ [45]
+ convert 
+light energy into 
+chemical energy
+ that can later be released to fuel the organism's metabolic activities via cellular respiration. This chemical
+ energy is stored in carbohydrate molecules, such as sugars, which are synthesized from carbon dioxide and
+ water.
+ [46] In most cases, oxygen is released as a waste product. Most plants, 
+cyanobacteria
+ perform photosynthesis, which is largely responsible for producing and maintaining the 
+Earth's atmosphere, and supplies most of the energy necessary for life on Earth.
+ Photosynthesis has four stages: 
+algae, and 
+oxygen content of the
+ [47]
+ Light absorption, electron transport, ATP synthesis, and 
+carbon fixation.
+ Light absorption is the initial step of photosynthesis whereby light energy is absorbed by 
+[43]
+ chlorophyll pigments
+ attached to proteins in the 
+thylakoid membranes. The absorbed light energy is used to remove electrons from a
+ donor (water) to a primary electron acceptor, a 
+quinone designated as Q. In the second stage, electrons move
+ from the quinone primary electron acceptor through a series of electron carriers until they reach a final
+ electron acceptor, which is usually the oxidized form of NADP+, which is reduced to NADPH, a process that
+ takes place in a protein complex called 
+photosystem I (PSI). The transport of electrons is coupled to the
+ movement of protons (or hydrogen) from the stroma to the thylakoid membrane, which forms a pH gradient
+ across the membrane as hydrogen becomes more concentrated in the lumen than in the stroma. This is
+ analogous to the proton-motive force generated across the inner mitochondrial membrane in aerobic respiration.
+ Photosynthesis changes
+ sunlight into chemical
+ energy, splits water to
+ liberate O2, and fixes
+ CO2 into sugar.
+ [43]
+ During the third stage of photosynthesis, the movement of protons down their 
+concentration gradients from the thylakoid lumen to the
+ stroma through the ATP synthase is coupled to the synthesis of ATP by that same ATP synthase.
+ [43] The NADPH and ATPs generated by
+ the 
+light-dependent reactions in the second and third stages, respectively, provide the energy and electrons to drive the synthesis of glucose
+ by fixing atmospheric carbon dioxide into existing organic carbon compounds, such as 
+ribulose bisphosphate (RuBP) in a sequence of
+ light-independent (or dark) reactions called the 
+Cell signaling
+ Calvin cycle.
+ [48]
+ Cell signaling (or communication) is the ability of 
+cells to receive, process, and transmit signals with its environment and with
+ itself.
+ [49]
+ [50] Signals can be non-chemical such as light, 
+receptors, which can be found 
+types of chemical signals: 
+releases it. 
+electrical impulses, and heat, or chemical signals (or 
+embedded in the 
+cell membrane of another cell or 
+autocrine, 
+paracrine, 
+juxtacrine, and 
+ligands) that interact with
+ located deep inside a cell.
+ [51]
+ [50] There are generally four
+ hormones.
+ [51] In autocrine signaling, the ligand affects the same cell that
+ Tumor cells, for example, can reproduce uncontrollably because they release signals that initiate their own self-division. In
+ paracrine signaling, the ligand diffuses to nearby cells and affects them. For example, brain cells called 
+neurons release ligands called
+ neurotransmitters that diffuse across a 
+synaptic cleft to bind with a receptor on an adjacent cell such as another neuron or 
+muscle cell. In
+In meiosis, the chromosomes
+ duplicate and the homologous
+ chromosomes exchange genetic
+ information during meiosis I. The
+ daughter cells divide again in
+ meiosis II to form haploid
+ gametes.
+ juxtacrine signaling, there is direct contact between the signaling and responding cells. Finally, hormones are ligands that travel through
+ the circulatory systems of animals or vascular systems of plants to reach their target cells. Once a ligand binds with a receptor, it can
+ influence the behavior of another cell, depending on the type of receptor. For instance, neurotransmitters that bind with an inotropic
+ receptor can alter the excitability of a target cell. Other types of receptors include protein kinase receptors (e.g., receptor for the hormone
+ insulin) and G protein-coupled receptors. Activation of G protein-coupled receptors can initiate second messenger cascades. The process
+ by which a chemical or physical signal is transmitted through a cell as a series of molecular events is called signal transduction.
+ The cell cycle is a series of events that take place in a cell that cause it to divide into two daughter cells. These events include the
+ duplication of its DNA and some of its organelles, and the subsequent partitioning of its cytoplasm into two daughter cells in a process
+ called cell division.[52] In eukaryotes (i.e., animal, plant, fungal, and protist cells), there are two distinct types of cell division: mitosis and
+ meiosis.[53] Mitosis is part of the cell cycle, in which replicated chromosomes are separated into two new nuclei. Cell division gives rise to
+ genetically identical cells in which the total number of chromosomes is maintained. In general, mitosis (division of the nucleus) is
+ preceded by the S stage of interphase (during which the DNA is replicated) and is often followed by telophase and cytokinesis; which
+ divides the cytoplasm, organelles and cell membrane of one cell into two new cells containing roughly equal shares of these cellular
+ components. The different stages of mitosis all together define the mitotic phase of an animal cell cycle—the division of the mother cell
+ into two genetically identical daughter cells.[54] The cell cycle is a vital process by which a single-celled fertilized egg develops into a
+ mature organism, as well as the process by which hair, skin, blood cells, and some internal organs are renewed. After cell division, each of
+ the daughter cells begin the interphase of a new cycle. In contrast to mitosis, meiosis results in four haploid daughter cells by undergoing
+ one round of DNA replication followed by two divisions.[55] Homologous chromosomes are separated in the first division (meiosis I), and
+ sister chromatids are separated in the second division (meiosis II). Both of these cell division cycles are used in the process of sexual
+ reproduction at some point in their life cycle. Both are believed to be present in the last eukaryotic common ancestor.
+ Prokaryotes (i.e., archaea and bacteria) can also undergo cell division (or binary fission). Unlike the
+ processes of mitosis and meiosis in eukaryotes, binary fission in prokaryotes takes place without the
+ formation of a spindle apparatus on the cell. Before binary fission, DNA in the bacterium is tightly
+ coiled. After it has uncoiled and duplicated, it is pulled to the separate poles of the bacterium as it
+ increases the size to prepare for splitting. Growth of a new cell wall begins to separate the bacterium
+ (triggered by FtsZ polymerization and "Z-ring" formation).[56] The new cell wall (septum) fully
+ develops, resulting in the complete split of the bacterium. The new daughter cells have tightly coiled
+ DNA rods, ribosomes, and plasmids.
+ Meiosis is a central feature of sexual reproduction in eukaryotes, and the most fundamental function of
+ meiosis appears to be conservation of the integrity of the genome that is passed on to progeny by
+ parents.[57][58] Two aspects of sexual reproduction, meiotic recombination and outcrossing, are likely
+ maintained respectively by the adaptive advantages of recombinational repair of genomic DNA
+ damage and genetic complementation which masks the expression of deleterious recessive mutations.[59]
+ The beneficial effect of genetic complementation, derived from outcrossing (cross-fertilization) is also referred to as hybrid vigor or
+ heterosis. Charles Darwin in his 1878 book The Effects of Cross and Self-Fertilization in the Vegetable Kingdom[60] at the start of chapter
+ XII noted “The first and most important of the conclusions which may be drawn from the observations given in this volume, is that
+ generally cross-fertilisation is beneficial and self-fertilisation often injurious, at least with the plants on which I experimented.” Genetic
+ variation, often produced as a byproduct of sexual reproduction, may provide long-term advantages to those sexual lineages that engage in
+ outcrossing.[59]
+ Cell cycle
+ Sexual reproduction and meiosis
+Punnett square
+ depicting a cross
+ between two pea plants
+ heterozygous for purple
+ (B) and white (b)
+ blossoms
+ Bases lie between two
+ spiraling DNA strands.
+ The extended central dogma of molecular biology
+ includes all the processes involved in the flow of
+ genetic information.
+ Genetics is the scientific study of inheritance.[61][62][63] Mendelian inheritance, specifically, is the process by
+ which genes and traits are passed on from parents to offspring.[23] It has several principles. The first is that
+ genetic characteristics, alleles, are discrete and have alternate forms (e.g., purple vs. white or tall vs. dwarf),
+ each inherited from one of two parents. Based on the law of dominance and uniformity, which states that some
+ alleles are dominant while others are recessive; an organism with at least one dominant allele will display the
+ phenotype of that dominant allele. During gamete formation, the alleles for each gene segregate, so that each
+ gamete carries only one allele for each gene. Heterozygotic individuals produce gametes with an equal
+ frequency of two alleles. Finally, the law of independent assortment, states that genes of different traits can
+ segregate independently during the formation of gametes, i.e., genes are unlinked. An exception to this rule
+ would include traits that are sex-linked. Test crosses can be performed to experimentally determine the
+ underlying genotype of an organism with a dominant phenotype.[64] A Punnett square can be used to predict
+ the results of a test cross. The chromosome theory of inheritance, which states that genes are found on
+ chromosomes, was supported by Thomas Morgans's experiments with fruit flies, which established the sex
+ linkage between eye color and sex in these insects.[65]
+ A gene is a unit of heredity that corresponds to a region of deoxyribonucleic acid (DNA) that carries
+ genetic information that controls form or function of an organism. DNA is composed of two
+ polynucleotide chains that coil around each other to form a double helix.[66] It is found as linear
+ chromosomes in eukaryotes, and circular chromosomes in prokaryotes. The set of chromosomes in a cell
+ is collectively known as its genome. In eukaryotes, DNA is mainly in the cell nucleus.[67] In prokaryotes,
+ the DNA is held within the nucleoid.[68] The genetic information is held within genes, and the complete
+ assemblage in an organism is called its genotype.[69] DNA replication is a semiconservative process
+ whereby each strand serves as a template for a new strand of DNA.[66] Mutations are heritable changes in
+ DNA.[66] They can arise spontaneously as a result of replication errors that were not corrected by
+ proofreading or can be induced by an environmental mutagen such as a chemical (e.g., nitrous acid,
+ benzopyrene) or radiation (e.g., x-ray, gamma ray, ultraviolet radiation, particles emitted by unstable
+ isotopes).[66] Mutations can lead to phenotypic effects such as loss-of-function, gain-of-function, and
+ conditional mutations.[66] Some mutations are beneficial, as they are a source of genetic variation for
+ evolution.[66] Others are harmful if they were to result in a loss of function of genes needed for
+ survival.[66]
+ Gene expression is the molecular process by which a genotype encoded in DNA gives
+ rise to an observable phenotype in the proteins of an organism's body. This process is
+ summarized by the central dogma of molecular biology, which was formulated by
+ Francis Crick in 1958.[70][71][72] According to the Central Dogma, genetic information
+ flows from DNA to RNA to protein. There are two gene expression processes:
+ transcription (DNA to RNA) and translation (RNA to protein).[73]
+ The regulation of gene expression by environmental factors and during different stages
+ of development can occur at each step of the process such as transcription, RNA
+ splicing, translation, and post-translational modification of a protein.[74] Gene
+ expression can be influenced by positive or negative regulation, depending on which of
+ the two types of regulatory proteins called transcription factors bind to the DNA sequence close to or at a promoter.[74] A cluster of genes
+ that share the same promoter is called an operon, found mainly in prokaryotes and some lower eukaryotes (e.g., Caenorhabditis
+ elegans).[74][75] In positive regulation of gene expression, the activator is the transcription factor that stimulates transcription when it binds
+ to the sequence near or at the promoter. Negative regulation occurs when another transcription factor called a repressor binds to a DNA
+ sequence called an operator, which is part of an operon, to prevent transcription. Repressors can be inhibited by compounds called
+ inducers (e.g., allolactose), thereby allowing transcription to occur.[74] Specific genes that can be activated by inducers are called inducible
+ Genetics
+ Inheritance
+ Genes and DNA
+ Gene expression
+ Gene regulation
+Natural selection for
+ darker traits
+ Phylogenetic tree showing the domains of
+ bacteria, archaea, and eukaryotes
+ genes, in contrast to constitutive genes that are almost constantly active.[74] In contrast to both, structural genes encode proteins that are
+ not involved in gene regulation.[74] In addition to regulatory events involving the promoter, gene expression can also be regulated by
+ epigenetic changes to chromatin, which is a complex of DNA and protein found in eukaryotic cells.[74]
+ Development is the process by which a multicellular organism (plant or animal) goes through a series of changes, starting from a single
+ cell, and taking on various forms that are characteristic of its life cycle.[76] There are four key processes that underlie development:
+ Determination, differentiation, morphogenesis, and growth. Determination sets the developmental fate of a cell, which becomes more
+ restrictive during development. Differentiation is the process by which specialized cells arise from less specialized cells such as stem
+ cells.[77][78] Stem cells are undifferentiated or partially differentiated cells that can differentiate into various types of cells and proliferate
+ indefinitely to produce more of the same stem cell.[79] Cellular differentiation dramatically changes a cell's size, shape, membrane
+ potential, metabolic activity, and responsiveness to signals, which are largely due to highly controlled modifications in gene expression
+ and epigenetics. With a few exceptions, cellular differentiation almost never involves a change in the DNA sequence itself.[80] Thus,
+ different cells can have very different physical characteristics despite having the same genome. Morphogenesis, or the development of
+ body form, is the result of spatial differences in gene expression.[76] A small fraction of the genes in an organism's genome called the
+ developmental-genetic toolkit control the development of that organism. These toolkit genes are highly conserved among phyla, meaning
+ that they are ancient and very similar in widely separated groups of animals. Differences in deployment of toolkit genes affect the body
+ plan and the number, identity, and pattern of body parts. Among the most important toolkit genes are the Hox genes. Hox genes determine
+ where repeating parts, such as the many vertebrae of snakes, will grow in a developing embryo or larva.[81]
+ Evolution is a central organizing concept in biology. It is the change in heritable characteristics of populations
+ over successive generations.[82][83] In artificial selection, animals were selectively bred for specific traits. [84]
+ Given that traits are inherited, populations contain a varied mix of traits, and reproduction is able to increase
+ any population, Darwin argued that in the natural world, it was nature that played the role of humans in
+ selecting for specific traits.[84] Darwin inferred that individuals who possessed heritable traits better adapted to
+ their environments are more likely to survive and produce more offspring than other individuals.[84] He
+ further inferred that this would lead to the accumulation of favorable traits over successive generations,
+ thereby increasing the match between the organisms and their environment.[85][86][87][84][88]
+ A species is a group of organisms that mate with one another and speciation is the process by which one lineage splits into two lineages as
+ a result of having evolved independently from each other.[89] For speciation to occur, there has to be reproductive isolation.[89]
+ Reproductive isolation can result from incompatibilities between genes as described by Bateson–Dobzhansky–Muller model.
+ Reproductive isolation also tends to increase with genetic divergence. Speciation can occur when there are physical barriers that divide an
+ ancestral species, a process known as allopatric speciation.[89]
+ A phylogeny is an evolutionary history of a specific group of organisms or their
+ genes.[90] It can be represented using a phylogenetic tree, a diagram showing lines of
+ descent among organisms or their genes. Each line drawn on the time axis of a tree
+ represents a lineage of descendants of a particular species or population. When a
+ lineage divides into two, it is represented as a fork or split on the phylogenetic tree.[90]
+ Phylogenetic trees are the basis for comparing and grouping different species.[90]
+ Different species that share a feature inherited from a common ancestor are described
+ as having homologous features (or synapomorphy).[91][92][90] Phylogeny provides the
+ basis of biological classification.[90] This classification system is rank-based, with the
+ highest rank being the domain followed by kingdom, phylum, class, order, family,
+ genus, and species.[90] All organisms can be classified as belonging to one of three
+ domains: Archaea (originally Archaebacteria), Bacteria (originally eubacteria), or
+ Eukarya (includes the fungi, plant, and animal kingdoms).[93]
+ Genes, development, and evolution
+ Evolution
+ Evolutionary processes
+ Speciation
+ Phylogeny
+Bacteria – Gemmatimonas
+ aurantiaca (-=1 Micrometer)
+ Archaea – Haloarchaea
+ The history of life on Earth traces how organisms have evolved from the earliest emergence of life to present day. Earth formed about 4.5
+ billion years ago and all life on Earth, both living and extinct, descended from a last universal common ancestor that lived about 3.5
+ billion years ago.[94][95] Geologists have developed a geologic time scale that divides the history of the Earth into major divisions, starting
+ with four eons (Hadean, Archean, Proterozoic, and Phanerozoic), the first three of which are collectively known as the Precambrian, which
+ lasted approximately 4 billion years.[96] Each eon can be divided into eras, with the Phanerozoic eon that began 539 million years ago[97]
+ being subdivided into Paleozoic, Mesozoic, and Cenozoic eras.[96] These three eras together comprise eleven periods (Cambrian,
+ Ordovician, Silurian, Devonian, Carboniferous, Permian, Triassic, Jurassic, Cretaceous, Tertiary, and Quaternary).[96]
+ The similarities among all known present-day species indicate that they have diverged through the process of evolution from their
+ common ancestor.[98] Biologists regard the ubiquity of the genetic code as evidence of universal common descent for all bacteria, archaea,
+ and eukaryotes.[99][3][100][101] Microbial mats of coexisting bacteria and archaea were the dominant form of life in the early Archean eon
+ and many of the major steps in early evolution are thought to have taken place in this environment.[102] The earliest evidence of
+ eukaryotes dates from 1.85 billion years ago,[103][104] and while they may have been present earlier, their diversification accelerated when
+ they started using oxygen in their metabolism. Later, around 1.7 billion years ago, multicellular organisms began to appear, with
+ differentiated cells performing specialised functions.[105]
+ Algae-like multicellular land plants are dated back to about 1 billion years ago,[106] although evidence suggests that microorganisms
+ formed the earliest terrestrial ecosystems, at least 2.7 billion years ago.[107] Microorganisms are thought to have paved the way for the
+ inception of land plants in the Ordovician period. Land plants were so successful that they are thought to have contributed to the Late
+ Devonian extinction event.[108]
+ Ediacara biota appear during the Ediacaran period,[109] while vertebrates, along with most other modern phyla originated about 525
+ million years ago during the Cambrian explosion.[110] During the Permian period, synapsids, including the ancestors of mammals,
+ dominated the land,[111] but most of this group became extinct in the Permian–Triassic extinction event 252 million years ago.[112] During
+ the recovery from this catastrophe, archosaurs became the most abundant land vertebrates;[113] one archosaur group, the dinosaurs,
+ dominated the Jurassic and Cretaceous periods.[114] After the Cretaceous–Paleogene extinction event 66 million years ago killed off the
+ non-avian dinosaurs,[115] mammals increased rapidly in size and diversity.[116] Such mass extinctions may have accelerated evolution by
+ providing opportunities for new groups of organisms to diversify.[117]
+ Bacteria are a type of cell that constitute a large domain of prokaryotic microorganisms. Typically a
+ few micrometers in length, bacteria have a number of shapes, ranging from spheres to rods and
+ spirals. Bacteria were among the first life forms to appear on Earth, and are present in most of its
+ habitats. Bacteria inhabit soil, water, acidic hot springs, radioactive waste,[118] and the deep
+ biosphere of the Earth's crust. Bacteria also live in symbiotic and parasitic relationships with plants
+ and animals. Most bacteria have not been characterised, and only about 27 percent of the bacterial
+ phyla have species that can be grown in the laboratory.[119]
+ Archaea constitute the other domain of prokaryotic cells and were initially classified as bacteria,
+ receiving the name archaebacteria (in the Archaebacteria kingdom), a term that has fallen out of
+ use.[120] Archaeal cells have unique properties separating them from the other two domains, Bacteria
+ and Eukaryota. Archaea are further divided into multiple recognized phyla. Archaea and bacteria are
+ generally similar in size and shape, although a few archaea have very different shapes, such as the
+ flat and square cells of Haloquadratum walsbyi.[121] Despite this morphological similarity to
+ bacteria, archaea possess genes and several metabolic pathways that are more closely related to those
+ of eukaryotes, notably for the enzymes involved in transcription and translation. Other aspects of
+ archaeal biochemistry are unique, such as their reliance on ether lipids in their cell membranes,[122]
+ including archaeols. Archaea use more energy sources than eukaryotes: these range from organic
+ compounds, such as sugars, to ammonia, metal ions or even hydrogen gas. Salt-tolerant archaea (the
+ Haloarchaea) use sunlight as an energy source, and other species of archaea fix carbon, but unlike
+ plants and cyanobacteria, no known species of archaea does both. Archaea reproduce asexually by
+ binary fission, fragmentation, or budding; unlike bacteria, no known species of Archaea form endospores.
+ The first observed archaea were extremophiles, living in extreme environments, such as hot springs and salt lakes with no other organisms.
+ Improved molecular detection tools led to the discovery of archaea in almost every habitat, including soil, oceans, and marshlands.
+ Archaea are particularly numerous in the oceans, and the archaea in plankton may be one of the most abundant groups of organisms on the
+ History of life
+ Diversity
+ Bacteria and Archaea
+Euglena, a single-celled eukaryote that
+ can both move and photosynthesize
+ Bacteriophages attached to a
+ bacterial cell wall
+ planet.
+ Archaea are a major part of Earth's life. They are part of the microbiota of all organisms. In the human microbiome, they are important in
+ the gut, mouth, and on the skin.[123] Their morphological, metabolic, and geographical diversity permits them to play multiple ecological
+ roles: carbon fixation; nitrogen cycling; organic compound turnover; and maintaining microbial symbiotic and syntrophic communities,
+ for example.[124]
+ Eukaryotes are hypothesized to have split from archaea, which was followed by their
+ endosymbioses with bacteria (or symbiogenesis) that gave rise to mitochondria and
+ chloroplasts, both of which are now part of modern-day eukaryotic cells.[125] The major
+ lineages of eukaryotes diversified in the Precambrian about 1.5 billion years ago and can be
+ classified into eight major clades: alveolates, excavates, stramenopiles, plants, rhizarians,
+ amoebozoans, fungi, and animals.[125] Five of these clades are collectively known as protists,
+ which are mostly microscopic eukaryotic organisms that are not plants, fungi, or animals.[125]
+ While it is likely that protists share a common ancestor (the last eukaryotic common
+ ancestor),[126] protists by themselves do not constitute a separate clade as some protists may be
+ more closely related to plants, fungi, or animals than they are to other protists. Like groupings
+ such as algae, invertebrates, or protozoans, the protist grouping is not a formal taxonomic
+ group but is used for convenience.[125][127] Most protists are unicellular; these are called
+ microbial eukaryotes.[125]
+ Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae, which would exclude fungi
+ and some algae. Plant cells were derived by endosymbiosis of a cyanobacterium into an early eukaryote about one billion years ago, which
+ gave rise to chloroplasts.[128] The first several clades that emerged following primary endosymbiosis were aquatic and most of the aquatic
+ photosynthetic eukaryotic organisms are collectively described as algae, which is a term of convenience as not all algae are closely
+ related.[128] Algae comprise several distinct clades such as glaucophytes, which are microscopic freshwater algae that may have resembled
+ in form to the early unicellular ancestor of Plantae.[128] Unlike glaucophytes, the other algal clades such as red and green algae are
+ multicellular. Green algae comprise three major clades: chlorophytes, coleochaetophytes, and stoneworts.[128]
+ Fungi are eukaryotes that digest foods outside their bodies,[129] secreting digestive enzymes that break down large food molecules before
+ absorbing them through their cell membranes. Many fungi are also saprobes, feeding on dead organic matter, making them important
+ decomposers in ecological systems.[129]
+ Animals are multicellular eukaryotes. With few exceptions, animals consume organic material, breathe oxygen, are able to move, can
+ reproduce sexually, and grow from a hollow sphere of cells, the blastula, during embryonic development. Over 1.5 million living animal
+ species have been described—of which around 1 million are insects—but it has been estimated there are over 7 million animal species in
+ total. They have complex interactions with each other and their environments, forming intricate food webs.[130]
+ Viruses are submicroscopic infectious agents that replicate inside the cells of organisms.[131] Viruses
+ infect all types of life forms, from animals and plants to microorganisms, including bacteria and
+ archaea.[132][133] More than 6,000 virus species have been described in detail.[134] Viruses are found in
+ almost every ecosystem on Earth and are the most numerous type of biological entity.[135][136]
+ The origins of viruses in the evolutionary history of life are unclear: some may have evolved from
+ plasmids—pieces of DNA that can move between cells—while others may have evolved from bacteria.
+ In evolution, viruses are an important means of horizontal gene transfer, which increases genetic
+ diversity in a way analogous to sexual reproduction.[137] Because viruses possess some but not all
+ characteristics of life, they have been described as "organisms at the edge of life",[138] and as self
+replicators.[139]
+ Ecology is the study of the distribution and abundance of life, the interaction between organisms and their environment.[140]
+ Eukaryotes
+ Viruses
+ Ecology
+Reaching carrying capacity through a logistic growth
+ curve
+ A (a) trophic pyramid and a (b) simplified food
+ web. The trophic pyramid represents the
+ biomass at each level.[152]
+ The community of living (biotic) organisms in conjunction with the nonliving (abiotic) components (e.g., water, light, radiation,
+ temperature, humidity, atmosphere, acidity, and soil) of their environment is called an ecosystem.[141][142][143] These biotic and abiotic
+ components are linked together through nutrient cycles and energy flows.[144] Energy from the sun enters the system through
+ photosynthesis and is incorporated into plant tissue. By feeding on plants and on one another, animals move matter and energy through the
+ system. They also influence the quantity of plant and microbial biomass present. By breaking down dead organic matter, decomposers
+ release carbon back to the atmosphere and facilitate nutrient cycling by converting nutrients stored in dead biomass back to a form that can
+ be readily used by plants and other microbes.[145]
+ A population is the group of organisms of the same species that occupies an area
+ and reproduce from generation to generation.[146][147][148][149][150] Population
+ size can be estimated by multiplying population density by the area or volume.
+ The carrying capacity of an environment is the maximum population size of a
+ species that can be sustained by that specific environment, given the food, habitat,
+ water, and other resources that are available.[151] The carrying capacity of a
+ population can be affected by changing environmental conditions such as changes
+ in the availability of resources and the cost of maintaining them. In human
+ populations, new technologies such as the Green revolution have helped increase
+ the Earth's carrying capacity for humans over time, which has stymied the
+ attempted predictions of impending population decline, the most famous of which
+ was by Thomas Malthus in the 18th century.[146]
+ A community is a group of populations of species occupying the same
+ geographical area at the same time.[153] A biological interaction is the effect that a pair of
+ organisms living together in a community have on each other. They can be either of the
+ same species (intraspecific interactions), or of different species (interspecific interactions).
+ These effects may be short-term, like pollination and predation, or long-term; both often
+ strongly influence the evolution of the species involved. A long-term interaction is called
+ a symbiosis. Symbioses range from mutualism, beneficial to both partners, to competition,
+ harmful to both partners.[154] Every species participates as a consumer, resource, or both
+ in consumer–resource interactions, which form the core of food chains or food webs.[155]
+ There are different trophic levels within any food web, with the lowest level being the
+ primary producers (or autotrophs) such as plants and algae that convert energy and
+ inorganic material into organic compounds, which can then be used by the rest of the community.[47][156][157] At the next level are the
+ heterotrophs, which are the species that obtain energy by breaking apart organic compounds from other organisms.[155] Heterotrophs that
+ consume plants are primary consumers (or herbivores) whereas heterotrophs that consume herbivores are secondary consumers (or
+ carnivores). And those that eat secondary consumers are tertiary consumers and so on. Omnivorous heterotrophs are able to consume at
+ multiple levels. Finally, there are decomposers that feed on the waste products or dead bodies of organisms.[155] On average, the total
+ amount of energy incorporated into the biomass of a trophic level per unit of time is about one-tenth of the energy of the trophic level that
+ it consumes. Waste and dead material used by decomposers as well as heat lost from metabolism make up the other ninety percent of
+ energy that is not consumed by the next trophic level.[158]
+ In the global ecosystem or biosphere, matter exists as different interacting compartments, which can be biotic or abiotic as well as
+ accessible or inaccessible, depending on their forms and locations.[160] For example, matter from terrestrial autotrophs are both biotic and
+ accessible to other organisms whereas the matter in rocks and minerals are abiotic and inaccessible. A biogeochemical cycle is a pathway
+ by which specific elements of matter are turned over or moved through the biotic (biosphere) and the abiotic (lithosphere, atmosphere, and
+ hydrosphere) compartments of Earth. There are biogeochemical cycles for nitrogen, carbon, and water.
+ Conservation biology is the study of the conservation of Earth's biodiversity with the aim of protecting species, their habitats, and
+ ecosystems from excessive rates of extinction and the erosion of biotic interactions.[161][162][163] It is concerned with factors that influence
+ the maintenance, loss, and restoration of biodiversity and the science of sustaining evolutionary processes that engender genetic,
+ population, species, and ecosystem diversity.[164][165][166][167] The concern stems from estimates suggesting that up to 50% of all species
+ on the planet will disappear within the next 50 years,[168] which has contributed to poverty, starvation, and will reset the course of
+ Ecosystems
+ Populations
+ Communities
+ Biosphere
+ Conservation
+Fast carbon cycle showing the movement of carbon
+ between land, atmosphere, and oceans in billions of
+ tons per year. Yellow numbers are natural fluxes, red
+ are human contributions, white are stored carbon.
+ Effects of the slow carbon cycle, such as volcanic and
+ tectonic activity, are not included.[159]
+ evolution on this planet.[169][170] Biodiversity affects the functioning of
+ ecosystems, which provide a variety of services upon which people depend.
+ Conservation biologists research and educate on the trends of biodiversity loss,
+ species extinctions, and the negative effect these are having on our capabilities to
+ sustain the well-being of human society. Organizations and citizens are
+ responding to the current biodiversity crisis through conservation action plans that
+ direct research, monitoring, and education programs that engage concerns at local
+ through global scales.[171][164][165][166]
+ Biology in fiction
+ Glossary of biology
+ Idiobiology
+ List of biological websites
+ List of biologists
+ List of biology journals
+ List of biology topics
+ List of life sciences
+ List of omics topics in biology
+ National Association of Biology Teachers
+ Outline of biology
+ Periodic table of life sciences in Tinbergen's four questions
+ Science tourism
+ Terminology of biology
+ 1. Modell, Harold; Cliff, William; Michael, Joel; McFarland, Jenny; Wenderoth, Mary Pat; Wright, Ann (December 2015). "A
+ physiologist's view of homeostasis" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4669363). Advances in Physiology
+ Education. 39 (4): 259–266. doi:10.1152/advan.00107.2015 (https://doi.org/10.1152%2Fadvan.00107.2015). ISSN 1043
+4046 (https://search.worldcat.org/issn/1043-4046). PMC 4669363 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC466936
+ 3). PMID 26628646 (https://pubmed.ncbi.nlm.nih.gov/26628646).
+ 2. Davies, PC; Rieper, E; Tuszynski, JA (January 2013). "Self-organization and entropy reduction in a living cell" (https://ww
+ w.ncbi.nlm.nih.gov/pmc/articles/PMC3712629). Bio Systems. 111 (1): 1–10. Bibcode:2013BiSys.111....1D (https://ui.adsa
+ bs.harvard.edu/abs/2013BiSys.111....1D). doi:10.1016/j.biosystems.2012.10.005 (https://doi.org/10.1016%2Fj.biosystem
+ s.2012.10.005). PMC 3712629 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3712629). PMID 23159919 (https://pubme
+ d.ncbi.nlm.nih.gov/23159919).
+ 3. Pearce, Ben K.D.; Tupper, Andrew S.; Pudritz, Ralph E.; et al. (March 1, 2018). "Constraining the Time Interval for the
+ Origin of Life on Earth". Astrobiology. 18 (3): 343–364. arXiv:1808.09460 (https://arxiv.org/abs/1808.09460).
+ Bibcode:2018AsBio..18..343P (https://ui.adsabs.harvard.edu/abs/2018AsBio..18..343P). doi:10.1089/ast.2017.1674 (http
+ s://doi.org/10.1089%2Fast.2017.1674). PMID 29570409 (https://pubmed.ncbi.nlm.nih.gov/29570409). S2CID 4419671 (htt
+ ps://api.semanticscholar.org/CorpusID:4419671).
+ 4. Mayr, Ernst (1982). The Growth of Biological Thought: Diversity, Evolution, and Inheritance (https://books.google.com/boo
+ ks?id=pHThtE2R0UQC&pg=PA1165). Harvard University Press. p. 108. ISBN 9780674364462. Retrieved 29 May 2025.
+ 5. Lindberg, David C. (2007). "Science before the Greeks". The beginnings of Western science: the European Scientific
+ tradition in philosophical, religious, and institutional context (2nd ed.). Chicago, Illinois: University of Chicago Press. pp. 1
+20. ISBN 978-0-226-48205-7.
+ 6. Grant, Edward (2007). "Ancient Egypt to Plato". A History of Natural Philosophy: From the Ancient World to the Nineteenth
+ Century (https://archive.org/details/historynaturalph00gran). New York: Cambridge University Press. pp. 1 (https://archive.
+ org/details/historynaturalph00gran/page/n16)–26. ISBN 978-052-1-68957-1.
+ 7. Handbook of the Historiography of Biology (https://link.springer.com/book/10.1007/978-3-319-90119-0). Historiographies
+ of Science. 2021. doi:10.1007/978-3-319-90119-0 (https://doi.org/10.1007%2F978-3-319-90119-0). ISBN 978-3-319
+90118-3.
+ 8. Magner, Lois N. (2002). A History of the Life Sciences, Revised and Expanded (https://books.google.com/books?id=YKJ6
+ gVYbrGwC). CRC Press. ISBN 978-0-203-91100-6. Archived (https://web.archive.org/web/20150324125937/http://books.
+ google.com/books?id=YKJ6gVYbrGwC) from the original on 2015-03-24.
+ 9. Serafini, Anthony (2013). The Epic History of Biology (https://books.google.com/books?id=Z3oECAAAQBAJ&q=biology%
+ 20egypt&pg=PA2). Springer. ISBN 978-1-4899-6327-7. Archived (https://web.archive.org/web/20210415122005/https://bo
+ oks.google.com/books?id=Z3oECAAAQBAJ&q=biology%20egypt&pg=PA2) from the original on 15 April 2021. Retrieved
+ 14 July 2015.
+ See also
+ References
+10. Morange, Michel. 2021. A History of Biology. Princeton, NJ: Princeton University Press. Translated by Teresa Lavender
+ Fagan and Joseph Muise.
+ 11. One or more of the preceding sentences incorporates text from a publication now in the public domain: Chisholm, Hugh,
+ ed. (1911). "Theophrastus". Encyclopædia Britannica (11th ed.). Cambridge University Press.
+ 12. Fahd, Toufic (1996). "Botany and agriculture". In Morelon, Régis; Rashed, Roshdi (eds.). Encyclopedia of the History of
+ Arabic Science. Vol. 3. Routledge. p. 815. ISBN 978-0-415-12410-2.
+ 13. Magner, Lois N. (2002). A History of the Life Sciences, Revised and Expanded (https://books.google.com/books?id=YKJ6
+ gVYbrGwC). CRC Press. pp. 133–44. ISBN 978-0-203-91100-6. Archived (https://web.archive.org/web/20150324125937/
+ http://books.google.com/books?id=YKJ6gVYbrGwC) from the original on 2015-03-24.
+ 14. Sapp, Jan (2003). "7". Genesis: The Evolution of Biology. New York: Oxford University Press. ISBN 978-0-19-515618-8.
+ 15. Coleman, William (1977). Biology in the Nineteenth Century: Problems of Form, Function, and Transformation. New York:
+ Cambridge University Press. ISBN 978-0-521-29293-1.
+ 16. Mayr, Ernst. The Growth of Biological Thought, chapter 4
+ 17. Mayr, Ernst. The Growth of Biological Thought, chapter 7
+ 18. * Darwin, Francis, ed. (1909). The foundations of The origin of species, a sketch written in 1842 (http://darwin-online.org.u
+ k/converted/pdf/1909_Foundations_F1555.pdf) (PDF). Cambridge: Printed at the University Press. p. 53. LCCN 61057537
+ (https://lccn.loc.gov/61057537). OCLC 1184581 (https://search.worldcat.org/oclc/1184581). Archived (https://web.archive.
+ org/web/20160304111606/http://darwin-online.org.uk/converted/pdf/1909_Foundations_F1555.pdf) (PDF) from the
+ original on 4 March 2016. Retrieved 27 November 2014.
+ 19. Gould, Stephen Jay. The Structure of Evolutionary Theory. The Belknap Press of Harvard University Press: Cambridge,
+ 2002. ISBN 0-674-00613-5. p. 187.
+ 20. Mayr, Ernst. The Growth of Biological Thought, chapter 10: "Darwin's evidence for evolution and common descent"; and
+ chapter 11: "The causation of evolution: natural selection"
+ 21. Larson, Edward J. (2006). "Ch. 3" (https://books.google.com/books?id=xzLRvxlJhzkC). Evolution: The Remarkable
+ History of a Scientific Theory. Random House Publishing Group. ISBN 978-1-58836-538-5. Archived (https://web.archive.
+ org/web/20150324124009/http://books.google.com/books?id=xzLRvxlJhzkC) from the original on 2015-03-24.
+ 22. Henig (2000). Op. cit (http://archive.org/details/monkingardenlost00heni). pp. 134–138.
+ 23. Miko, Ilona (2008). "Gregor Mendel's principles of inheritance form the cornerstone of modern genetics. So just what are
+ they?" (https://www.nature.com/scitable/topicpage/gregor-mendel-and-the-principles-of-inheritance-593/). Nature
+ Education. 1 (1): 134. Archived (https://web.archive.org/web/20190719224056/http://www.nature.com/scitable/topicpage/g
+ regor-mendel-and-the-principles-of-inheritance-593) from the original on 2019-07-19. Retrieved 2021-05-13.
+ 24. Futuyma, Douglas J.; Kirkpatrick, Mark (2017). "Evolutionary Biology". Evolution (4th ed.). Sunderland, Mass.: Sinauer
+ Associates. pp. 3–26.
+ 25. Noble, Ivan (2003-04-14). "Human genome finally complete" (https://news.bbc.co.uk/2/hi/science/nature/2940601.stm).
+ BBC News. Archived (https://web.archive.org/web/20060614141605/http://news.bbc.co.uk/2/hi/science/nature/2940601.st
+ m) from the original on 2006-06-14. Retrieved 2006-07-22.
+ 26. Urry, Lisa; Cain, Michael; Wasserman, Steven; Minorsky, Peter; Reece, Jane (2017). "The chemical context of life".
+ Campbell Biology (11th ed.). New York: Pearson. pp. 28–43. ISBN 978-0134093413.
+ 27. Freeman, Scott; Quillin, Kim; Allison, Lizabeth; Black, Michael; Podgorski, Greg; Taylor, Emily; Carmichael, Jeff (2017).
+ "Water and carbon: The chemical basis of life". Biological Science (6th ed.). Hoboken, N.J.: Pearson. pp. 55–77.
+ ISBN 978-0321976499.
+ 28. Urry, Lisa; Cain, Michael; Wasserman, Steven; Minorsky, Peter; Reece, Jane (2017). "Carbon and the molecular diversity
+ of life". Campbell Biology (11th ed.). New York: Pearson. pp. 56–65. ISBN 978-0134093413.
+ 29. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Carbon and molecular diversity of life". Principles
+ of Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 56–65. ISBN 978-1464175121.
+ 30. Freeman, Scott; Quillin, Kim; Allison, Lizabeth; Black, Michael; Podgorski, Greg; Taylor, Emily; Carmichael, Jeff (2017).
+ "Protein structure and function". Biological Science (6th ed.). Hoboken, N.J.: Pearson. pp. 78–92. ISBN 978-0321976499.
+ 31. Urry, Lisa; Cain, Michael; Wasserman, Steven; Minorsky, Peter; Reece, Jane (2017). "The structure and function of large
+ biological molecules". Campbell Biology (11th ed.). New York: Pearson. pp. 66–92. ISBN 978-0134093413.
+ 32. Freeman, Scott; Quillin, Kim; Allison, Lizabeth; Black, Michael; Podgorski, Greg; Taylor, Emily; Carmichael, Jeff (2017).
+ "An introduction to carbohydrate". Biological Science (6th ed.). Hoboken, N.J.: Pearson. pp. 107–118. ISBN 978
+0321976499.
+ 33. Freeman, Scott; Quillin, Kim; Allison, Lizabeth; Black, Michael; Podgorski, Greg; Taylor, Emily; Carmichael, Jeff (2017).
+ "Lipids, membranes, and the first cells". Biological Science (6th ed.). Hoboken, N.J.: Pearson. pp. 119–141. ISBN 978
+0321976499.
+ 34. Freeman, Scott; Quillin, Kim; Allison, Lizabeth; Black, Michael; Podgorski, Greg; Taylor, Emily; Carmichael, Jeff (2017).
+ "Nucleic acids and the RNA world". Biological Science (6th ed.). Hoboken, N.J.: Pearson. pp. 93–106. ISBN 978
+0321976499.
+ 35. Mazzarello, P. (May 1999). "A unifying concept: the history of cell theory". Nature Cell Biology. 1 (1): E13–15.
+ doi:10.1038/8964 (https://doi.org/10.1038%2F8964). PMID 10559875 (https://pubmed.ncbi.nlm.nih.gov/10559875).
+ S2CID 7338204 (https://api.semanticscholar.org/CorpusID:7338204).
+ 36. Campbell, Neil A.; Williamson, Brad; Heyden, Robin J. (2006). Biology: Exploring Life (http://www.phschool.com/el_market
+ ing.html). Boston: Pearson Prentice Hall. ISBN 978-0132508827. Archived (https://web.archive.org/web/20141102041816/
+ http://www.phschool.com/el_marketing.html) from the original on 2014-11-02. Retrieved 2021-05-13.
+ 37. Urry, Lisa; Cain, Michael; Wasserman, Steven; Minorsky, Peter; Reece, Jane (2017). "Membrane structure and function".
+ Campbell Biology (11th ed.). New York: Pearson. pp. 126–142. ISBN 978-0134093413.
+38. Alberts, B.; Johnson, A.; Lewis, J.; et al. (2002). Molecular Biology of the Cell (https://www.ncbi.nlm.nih.gov/books/NBK21
+ 054/?term=Molecular%20Biology%20of%20the%20Cell) (4th ed.). New York: Garland Science. ISBN 978-0-8153-3218-3.
+ Archived (https://web.archive.org/web/20171220092628/https://www.ncbi.nlm.nih.gov/books/NBK21054/?term=Molecula
+ r%20Biology%20of%20the%20Cell) from the original on 2017-12-20.
+ 39. Tom Herrmann; Sandeep Sharma (March 2, 2019). "Physiology, Membrane" (https://www.ncbi.nlm.nih.gov/books/NBK538
+ 211/). StatPearls. PMID 30855799 (https://pubmed.ncbi.nlm.nih.gov/30855799). Archived (https://web.archive.org/web/20
+ 220217034021/https://www.ncbi.nlm.nih.gov/books/NBK538211/) from the original on February 17, 2022. Retrieved
+ May 14, 2021.
+ 40. Alberts, Bruce; Johnson, Alexander; Lewis, Julian; Raff, Martin; Roberts, Keith; Walter, Peter (2002). "Cell Movements and
+ the Shaping of the Vertebrate Body" (https://www.ncbi.nlm.nih.gov/books/NBK26863/). Molecular Biology of the Cell
+ (4th ed.). Archived (https://web.archive.org/web/20200122055346/https://www.ncbi.nlm.nih.gov/books/NBK26863/) from
+ the original on 2020-01-22. Retrieved 2021-05-13. The Alberts text discusses how the "cellular building blocks" move to
+ shape developing embryos. It is also common to describe small molecules such as amino acids as "molecular building
+ blocks (https://www.ncbi.nlm.nih.gov/books?cmd=Search&doptcmdl=GenBookHL&term=%22all%20cells%22%20AND%2
+ 0mboc4%5Bbook%5D%20AND%20372023%5Buid%5D&rid=mboc4.section.4) ".
+ 41. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Cells: The working units of life". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 60–81. ISBN 978-1464175121.
+ 42. Bailey, Regina. "Cellular Respiration" (http://biology.about.com/od/cellularprocesses/a/cellrespiration.htm). Archived (http
+ s://web.archive.org/web/20120505043947/http://biology.about.com/od/cellularprocesses/a/cellrespiration.htm) from the
+ original on 2012-05-05.
+ 43. Lodish, Harvey; Berk, Arnold.; Kaiser, Chris A.; Krieger, Monty; Scott, Matthew P.; Bretscher, Anthony; Ploegh, Hidde;
+ Matsudaira, Paul (2008). "Cellular energetics". Molecular Cell Biology (6th ed.). New York: W.H. Freeman and Company.
+ pp. 479–532. ISBN 978-0716776017.
+ 44. "photosynthesis" (http://www.etymonline.com/index.php?term=photosynthesis&allowed_in_frame=0). Online Etymology
+ Dictionary. Archived (https://web.archive.org/web/20130307020959/http://www.etymonline.com/index.php?term=photosynt
+ hesis&allowed_in_frame=0) from the original on 2013-03-07. Retrieved 2013-05-23.
+ 45. φῶς (https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=fw=s2). Liddell, Henry George;
+ Scott, Robert; A Greek–English Lexicon at the Perseus Project
+ 46. σύνθεσις (https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=su/nqesis). Liddell, Henry
+ George; Scott, Robert; A Greek–English Lexicon at the Perseus Project
+ 47. Bryant, D. A.; Frigaard, N. U. (Nov 2006). "Prokaryotic photosynthesis and phototrophy illuminated". Trends in
+ Microbiology. 14 (11): 488–496. doi:10.1016/j.tim.2006.09.001 (https://doi.org/10.1016%2Fj.tim.2006.09.001).
+ PMID 16997562 (https://pubmed.ncbi.nlm.nih.gov/16997562).
+ 48. Reece, J.; Urry, L.; Cain, M. (2011). Biology (https://archive.org/details/isbn_9781256158769/page/235)
+ (International ed.). Upper Saddle River, New Jersey: Pearson Education. pp. 235, 244 (https://archive.org/details/isbn_97
+ 81256158769/page/235). ISBN 978-0-321-73975-9. "This initial incorporation of carbon into organic compounds is known
+ as carbon fixation."
+ 49. Neitzel, James; Rasband, Matthew. "Cell communication" (https://www.nature.com/scitable/topic/cell-communication-1412
+ 2659/). Nature Education. Archived (https://web.archive.org/web/20100929110101/https://www.nature.com/scitable/topic/c
+ ell-communication-14122659/) from the original on 29 September 2010. Retrieved 29 May 2021.
+ 50. "Cell signaling" (https://www.nature.com/scitable/topicpage/cell-signaling-14047077/). Nature Education. Archived (https://
+ web.archive.org/web/20101031053612/https://www.nature.com/scitable/topicpage/cell-signaling-14047077/) from the
+ original on 31 October 2010. Retrieved 29 May 2021.
+ 51. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Cell membranes and signaling". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 82–104. ISBN 978-1464175121.
+ 52. Martin, E. A.; Hine, R. (2020). A dictionary of biology (6th ed.). Oxford: Oxford University Press. ISBN 978-0199204625.
+ OCLC 176818780 (https://search.worldcat.org/oclc/176818780).
+ 53. Griffiths, A. J. (2012). Introduction to genetic analysis (10th ed.). New York: W.H. Freeman. ISBN 978-1429229432.
+ OCLC 698085201 (https://search.worldcat.org/oclc/698085201).
+ 54. "10.2 The Cell Cycle – Biology 2e | OpenStax" (https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle).
+ openstax.org. 28 March 2018. Archived (https://web.archive.org/web/20201129223722/https://openstax.org/books/biology-2e/pages/10-2-the-cell-cycle) from the original on 2020-11-29. Retrieved 2020-11-24.
+ 55. Freeman, Scott; Quillin, Kim; Allison, Lizabeth; Black, Michael; Podgorski, Greg; Taylor, Emily; Carmichael, Jeff (2017).
+ "Meiosis". Biological Science (6th ed.). Hoboken, New Jersey: Pearson. pp. 271–289. ISBN 978-0321976499.
+ 56. Casiraghi, A.; Suigo, L.; Valoti, E.; Straniero, V. (February 2020). "Targeting Bacterial Cell Division: A Binding Site
+Centered Approach to the Most Promising Inhibitors of the Essential Protein FtsZ" (https://www.ncbi.nlm.nih.gov/pmc/articl
+ es/PMC7167804). Antibiotics. 9 (2): 69. doi:10.3390/antibiotics9020069 (https://doi.org/10.3390%2Fantibiotics9020069).
+ PMC 7167804 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7167804). PMID 32046082 (https://pubmed.ncbi.nlm.nih.go
+ v/32046082).
+ 57. Brandeis M. New-age ideas about age-old sex: separating meiosis from mating could solve a century-old conundrum. Biol
+ Rev Camb Philos Soc. 2018 May;93(2):801–810. doi: 10.1111/brv.12367. Epub 2017 Sep 14. PMID 28913952
+ 58. Hörandl E. Apomixis and the paradox of sex in plants. Ann Bot. 2024 Mar 18:mcae044. doi: 10.1093/aob/mcae044. Epub
+ ahead of print. PMID 38497809
+ 59. Bernstein H, Byerly HC, Hopf FA, Michod RE. Genetic damage, mutation, and the evolution of sex. Science. 1985 Sep
+ 20;229(4719):1277–81. doi: 10.1126/science.3898363. PMID 3898363
+ 60. Darwin, C. R. 1878. The effects of cross and self fertilisation in the vegetable kingdom. London: John Murray. darwin
+online.org.uk
+61. Griffiths, Anthony J.; Wessler, Susan R.; Carroll, Sean B.; Doebley, John (2015). "The genetics revolution". An Introduction
+ to Genetic Analysis (11th ed.). Sunderland, Massachusetts: W.H. Freeman & Company. pp. 1–30. ISBN 978-1464109485.
+ 62. Griffiths, Anthony J. F.; Miller, Jeffrey H.; Suzuki, David T.; Lewontin, Richard C.; Gelbart, William M., eds. (2000).
+ "Genetics and the Organism: Introduction" (https://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=iga.section.60). An Introduction
+ to Genetic Analysis (7th ed.). New York: W. H. Freeman. ISBN 978-0-7167-3520-5.
+ 63. Hartl, D.; Jones, E (2005). Genetics: Analysis of Genes and Genomes (https://archive.org/details/genetics00dani)
+ (6th ed.). Jones & Bartlett. ISBN 978-0-7637-1511-3.
+ 64. Miko, Ilona (2008). "Test crosses" (https://www.nature.com/scitable/topicpage/test-crosses-585/). Nature Education. 1 (1):
+ 136. Archived (https://web.archive.org/web/20210521003428/https://www.nature.com/scitable/topicpage/test-crosses-58
+ 5/) from the original on 2021-05-21. Retrieved 2021-05-28.
+ 65. Miko, Ilona (2008). "Thomas Hunt Morgan and sex linkage" (https://www.nature.com/scitable/topicpage/thomas-hunt-morg
+ an-and-sex-linkage-452/). Nature Education. 1 (1): 143. Archived (https://web.archive.org/web/20210520234008/https://w
+ ww.nature.com/scitable/topicpage/thomas-hunt-morgan-and-sex-linkage-452/) from the original on 2021-05-20. Retrieved
+ 2021-05-28.
+ 66. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "DNA and its role in heredity". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 172–193. ISBN 978-1464175121.
+ 67. Russell, Peter (2001). iGenetics (https://archive.org/details/igenetics0000russ_v6o1). New York: Benjamin Cummings.
+ ISBN 0-8053-4553-1.
+ 68. Thanbichler, M; Wang, SC; Shapiro, L (October 2005). "The bacterial nucleoid: a highly organized and dynamic structure"
+ (https://doi.org/10.1002%2Fjcb.20519). Journal of Cellular Biochemistry. 96 (3): 506–21. doi:10.1002/jcb.20519 (https://do
+ i.org/10.1002%2Fjcb.20519). PMID 15988757 (https://pubmed.ncbi.nlm.nih.gov/15988757). S2CID 25355087 (https://api.
+ semanticscholar.org/CorpusID:25355087).
+ 69. "Genotype definition – Medical Dictionary definitions" (http://www.medterms.com/script/main/art.asp?articlekey=8472).
+ Medterms. Medterms.com. 2012-03-19. Archived (https://web.archive.org/web/20130921054803/http://www.medterms.co
+ m/script/main/art.asp?articlekey=8472) from the original on 2013-09-21. Retrieved 2013-10-02.
+ 70. Crick, Francis H. (1958). "On protein synthesis". Symposia of the Society for Experimental Biology. 12: 138–63.
+ PMID 13580867 (https://pubmed.ncbi.nlm.nih.gov/13580867).
+ 71. Crick, Francis H. (August 1970). "Central dogma of molecular biology". Nature. 227 (5258): 561–3.
+ Bibcode:1970Natur.227..561C (https://ui.adsabs.harvard.edu/abs/1970Natur.227..561C). doi:10.1038/227561a0 (https://d
+ oi.org/10.1038%2F227561a0). PMID 4913914 (https://pubmed.ncbi.nlm.nih.gov/4913914). S2CID 4164029 (https://api.se
+ manticscholar.org/CorpusID:4164029).
+ 72. "Central dogma reversed". Nature. 226 (5252): 1198–9. June 1970. Bibcode:1970Natur.226.1198. (https://ui.adsabs.harva
+ rd.edu/abs/1970Natur.226.1198.). doi:10.1038/2261198a0 (https://doi.org/10.1038%2F2261198a0). PMID 5422595 (http
+ s://pubmed.ncbi.nlm.nih.gov/5422595). S2CID 4184060 (https://api.semanticscholar.org/CorpusID:4184060).
+ 73. Lin, Yihan; Elowitz, Michael B. (2016). "Central Dogma Goes Digital" (https://doi.org/10.1016%2Fj.molcel.2016.03.005).
+ Molecular Cell. 61 (6): 791–792. doi:10.1016/j.molcel.2016.03.005 (https://doi.org/10.1016%2Fj.molcel.2016.03.005).
+ PMID 26990983 (https://pubmed.ncbi.nlm.nih.gov/26990983).
+ 74. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Regulation of gene expression". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 215–233. ISBN 978-1464175121.
+ 75. Keene, Jack D.; Tenenbaum, Scott A. (2002). "Eukaryotic mRNPs may represent posttranscriptional operons" (https://doi.
+ org/10.1016%2Fs1097-2765%2802%2900559-2). Molecular Cell. 9 (6): 1161–1167. doi:10.1016/s1097-2765(02)00559-2
+ (https://doi.org/10.1016%2Fs1097-2765%2802%2900559-2). PMID 12086614 (https://pubmed.ncbi.nlm.nih.gov/1208661
+ 4).
+ 76. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Genes, development, and evolution". Principles of
+ Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 273–298. ISBN 978-1464175121.
+ 77. Slack, J.M.W. (2013) Essential Developmental Biology. Wiley-Blackwell, Oxford.
+ 78. Slack, J.M.W. (2007). "Metaplasia and transdifferentiation: from pure biology to the clinic". Nature Reviews Molecular Cell
+ Biology. 8 (5): 369–378. doi:10.1038/nrm2146 (https://doi.org/10.1038%2Fnrm2146). PMID 17377526 (https://pubmed.nc
+ bi.nlm.nih.gov/17377526). S2CID 3353748 (https://api.semanticscholar.org/CorpusID:3353748).
+ 79. Atala, Anthony; Lanza, Robert (2012). Handbook of Stem Cells (https://books.google.com/books?id=wm-K_dKpjBAC&pg=
+ RA1-PA451). Academic Press. p. 452. ISBN 978-0-12-385943-3. Archived (https://web.archive.org/web/20210412065854/
+ https://books.google.com/books?id=wm-K_dKpjBAC&pg=RA1-PA451) from the original on 2021-04-12. Retrieved
+ 2021-05-28.
+ 80. Yanes, Oscar; Clark, Julie; Wong, Diana M.; Patti, Gary J.; Sánchez-Ruiz, Antonio; Benton, H. Paul; Trauger, Sunia A.;
+ Desponts, Caroline; Ding, Sheng; Siuzdak, Gary (June 2010). "Metabolic oxidation regulates embryonic stem cell
+ differentiation" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2873061). Nature Chemical Biology. 6 (6): 411–417.
+ doi:10.1038/nchembio.364 (https://doi.org/10.1038%2Fnchembio.364). PMC 2873061 (https://www.ncbi.nlm.nih.gov/pmc/
+ articles/PMC2873061). PMID 20436487 (https://pubmed.ncbi.nlm.nih.gov/20436487).
+ 81. Carroll, Sean B. "The Origins of Form" (http://www.naturalhistorymag.com/features/061488/the-origins-of-form). Natural
+ History. Archived (https://web.archive.org/web/20181009154501/http://www.naturalhistorymag.com/features/061488/the-o
+ rigins-of-form) from the original on 9 October 2018. Retrieved 9 October 2016. "Biologists could say, with confidence, that
+ forms change, and that natural selection is an important force for change. Yet they could say nothing about how that
+ change is accomplished. How bodies or body parts change, or how new structures arise, remained complete mysteries."
+ 82. Hall, Brian K.; Hallgrímsson, Benedikt (2007). Strickberger's Evolution (https://books.google.com/books?id=jrDD3cyA09k
+ C). Jones & Bartlett Publishers. pp. 4–6. ISBN 978-1-4496-4722-3. Archived (https://web.archive.org/web/2023032609370
+ 7/https://books.google.com/books?id=jrDD3cyA09kC) from the original on 2023-03-26. Retrieved 2021-05-27.
+83. "Evolution Resources" (http://www.nas.edu/evolution/index.html). Washington, D.C.: National Academies of Sciences,
+ Engineering, and Medicine. 2016. Archived (https://web.archive.org/web/20160603230514/http://www.nas.edu/evolution/in
+ dex.html) from the original on 2016-06-03.
+ 84. Urry, Lisa; Cain, Michael; Wasserman, Steven; Minorsky, Peter; Reece, Jane (2017). "Descent with modifications: A
+ Darwinian view of life". Campbell Biology (11th ed.). New York: Pearson. pp. 466–483. ISBN 978-0134093413.
+ 85. Lewontin, Richard C. (November 1970). "The Units of Selection" (http://joelvelasco.net/teaching/167/lewontin%2070%20
+%20the%20units%20of%20selection.pdf) (PDF). Annual Review of Ecology and Systematics. 1 (1): 1–18.
+ Bibcode:1970AnRES...1....1L (https://ui.adsabs.harvard.edu/abs/1970AnRES...1....1L).
+ doi:10.1146/annurev.es.01.110170.000245 (https://doi.org/10.1146%2Fannurev.es.01.110170.000245). JSTOR 2096764
+ (https://www.jstor.org/stable/2096764). S2CID 84684420 (https://api.semanticscholar.org/CorpusID:84684420). Archived
+ (https://web.archive.org/web/20150206172942/http://joelvelasco.net/teaching/167/lewontin%2070%20-%20the%20units%
+ 20of%20selection.pdf) (PDF) from the original on 2015-02-06.
+ 86. Darwin, Charles (1859). On the Origin of Species, John Murray.
+ 87. Futuyma, Douglas J.; Kirkpatrick, Mark (2017). "Evolutionary biology". Evolution (4th ed.). Sunderland, Mass.: Sinauer
+ Associates. pp. 3–26.
+ 88. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Processes of evolution". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 299–324. ISBN 978-1464175121.
+ 89. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Speciation". Principles of Life (2nd ed.).
+ Sunderland, Mass.: Sinauer Associates. pp. 343–356. ISBN 978-1464175121.
+ 90. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Reconstructing and using phylogenies".
+ Principles of Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 325–342. ISBN 978-1464175121.
+ 91. Kitching, Ian J.; Forey, Peter L.; Williams, David M. (2001). "Cladistics" (https://www.sciencedirect.com/science/article/pii/B
+ 9780123847195000228). In Levin, Simon A. (ed.). Encyclopedia of Biodiversity (2nd ed.). Elsevier. pp. 33–45.
+ doi:10.1016/B978-0-12-384719-5.00022-8 (https://doi.org/10.1016%2FB978-0-12-384719-5.00022-8).
+ ISBN 9780123847201. Archived (https://web.archive.org/web/20210829234556/https://www.sciencedirect.com/science/art
+ icle/pii/B9780123847195000228) from the original on 29 August 2021. Retrieved 29 August 2021.)
+ 92. Futuyma, Douglas J.; Kirkpatrick, Mark (2017). "Phylogeny: The unity and diversity of life". Evolution (4th ed.).
+ Sunderland, Mass.: Sinauer Associates. pp. 401–429.
+ 93. Woese, CR; Kandler, O; Wheelis, ML (June 1990). "Towards a natural system of organisms: proposal for the domains
+ Archaea, Bacteria, and Eucarya" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC54159). Proceedings of the National
+ Academy of Sciences of the United States of America. 87 (12): 4576–79. Bibcode:1990PNAS...87.4576W (https://ui.adsa
+ bs.harvard.edu/abs/1990PNAS...87.4576W). doi:10.1073/pnas.87.12.4576 (https://doi.org/10.1073%2Fpnas.87.12.4576).
+ PMC 54159 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC54159). PMID 2112744 (https://pubmed.ncbi.nlm.nih.gov/211
+ 2744).
+ 94. Montévil, M; Mossio, M; Pocheville, A; Longo, G (October 2016). "Theoretical principles for biology: Variation" (https://ww
+ w.academia.edu/27942089). Progress in Biophysics and Molecular Biology. From the Century of the Genome to the
+ Century of the Organism: New Theoretical Approaches. 122 (1): 36–50. doi:10.1016/j.pbiomolbio.2016.08.005 (https://doi.
+ org/10.1016%2Fj.pbiomolbio.2016.08.005). PMID 27530930 (https://pubmed.ncbi.nlm.nih.gov/27530930).
+ S2CID 3671068 (https://api.semanticscholar.org/CorpusID:3671068). Archived (https://web.archive.org/web/20180320150
+ 224/http://www.academia.edu/27942089/Theoretical_principles_for_biology_Variation) from the original on 2018-03-20.
+ 95. De Duve, Christian (2002). Life Evolving: Molecules, Mind, and Meaning (https://archive.org/details/lifeevolvingmole00duv
+ e_331). New York: Oxford University Press. p. 44 (https://archive.org/details/lifeevolvingmole00duve_331/page/n60).
+ ISBN 978-0-19-515605-8.
+ 96. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "The history of life on Earth". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 357–376. ISBN 978-1464175121.
+ 97. "Stratigraphic Chart 2022" (https://stratigraphy.org/ICSchart/ChronostratChart2022-02.pdf) (PDF). International
+ Stratigraphic Commission. February 2022. Archived (https://web.archive.org/web/20220402100018/https://stratigraphy.or
+ g/ICSchart/ChronostratChart2022-02.pdf) (PDF) from the original on 2 April 2022. Retrieved 25 April 2022.
+ 98. Futuyma 2005
+ 99. Futuyma, DJ (2005). Evolution (https://archive.org/details/evolution0000futu). Sinauer Associates. ISBN 978-0-87893-187
+3. OCLC 57311264 (https://search.worldcat.org/oclc/57311264).
+ 100. Rosing, Minik T. (January 29, 1999). "13C-Depleted Carbon Microparticles in >3700-Ma Sea-Floor Sedimentary Rocks
+ from West Greenland". Science. 283 (5402): 674–676. Bibcode:1999Sci...283..674R (https://ui.adsabs.harvard.edu/abs/1
+ 999Sci...283..674R). doi:10.1126/science.283.5402.674 (https://doi.org/10.1126%2Fscience.283.5402.674).
+ PMID 9924024 (https://pubmed.ncbi.nlm.nih.gov/9924024).
+ 101. Ohtomo, Yoko; Kakegawa, Takeshi; Ishida, Akizumi; et al. (January 2014). "Evidence for biogenic graphite in early
+ Archaean Isua metasedimentary rocks". Nature Geoscience. 7 (1): 25–28. Bibcode:2014NatGe...7...25O (https://ui.adsab
+ s.harvard.edu/abs/2014NatGe...7...25O). doi:10.1038/ngeo2025 (https://doi.org/10.1038%2Fngeo2025).
+ 102. Nisbet, Euan G.; Fowler, C.M.R. (December 7, 1999). "Archaean metabolic evolution of microbial mats" (https://www.ncbi.
+ nlm.nih.gov/pmc/articles/PMC1690475). Proceedings of the Royal Society B. 266 (1436): 2375–2382.
+ doi:10.1098/rspb.1999.0934 (https://doi.org/10.1098%2Frspb.1999.0934). PMC 1690475 (https://www.ncbi.nlm.nih.gov/p
+ mc/articles/PMC1690475).
+ 103. Knoll, Andrew H.; Javaux, Emmanuelle J.; Hewitt, David; et al. (June 29, 2006). "Eukaryotic organisms in Proterozoic
+ oceans" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1578724). Philosophical Transactions of the Royal Society B. 361
+ (1470): 1023–1038. doi:10.1098/rstb.2006.1843 (https://doi.org/10.1098%2Frstb.2006.1843). PMC 1578724 (https://www.
+ ncbi.nlm.nih.gov/pmc/articles/PMC1578724). PMID 16754612 (https://pubmed.ncbi.nlm.nih.gov/16754612).
+104. Fedonkin, Mikhail A. (March 31, 2003). "The origin of the Metazoa in the light of the Proterozoic fossil record" (https://web.
+ archive.org/web/20090226122725/http://www.vend.paleo.ru/pub/Fedonkin_2003.pdf) (PDF). Paleontological Research. 7
+ (1): 9–41. Bibcode:2003PalRe...7....9F (https://ui.adsabs.harvard.edu/abs/2003PalRe...7....9F). doi:10.2517/prpsj.7.9 (http
+ s://doi.org/10.2517%2Fprpsj.7.9). S2CID 55178329 (https://api.semanticscholar.org/CorpusID:55178329). Archived from
+ the original (http://www.vend.paleo.ru/pub/Fedonkin_2003.pdf) (PDF) on 2009-02-26. Retrieved 2008-09-02.
+ 105. Bonner, John Tyler (January 7, 1998). "The origins of multicellularity". Integrative Biology. 1 (1): 27–36.
+ doi:10.1002/(SICI)1520-6602(1998)1:1<27::AID-INBI4>3.0.CO;2-6 (https://doi.org/10.1002%2F%28SICI%291520-6602%
+ 281998%291%3A1%3C27%3A%3AAID-INBI4%3E3.0.CO%3B2-6).
+ 106. Strother, Paul K.; Battison, Leila; Brasier, Martin D.; et al. (May 26, 2011). "Earth's earliest non-marine eukaryotes".
+ Nature. 473 (7348): 505–509. Bibcode:2011Natur.473..505S (https://ui.adsabs.harvard.edu/abs/2011Natur.473..505S).
+ doi:10.1038/nature09943 (https://doi.org/10.1038%2Fnature09943). PMID 21490597 (https://pubmed.ncbi.nlm.nih.gov/21
+ 490597). S2CID 4418860 (https://api.semanticscholar.org/CorpusID:4418860).
+ 107. Beraldi-Campesi, Hugo (February 23, 2013). "Early life on land and the first terrestrial ecosystems" (https://doi.org/10.118
+ 6%2F2192-1709-2-1). Ecological Processes. 2 (1): 1–17. Bibcode:2013EcoPr...2....1B (https://ui.adsabs.harvard.edu/abs/
+ 2013EcoPr...2....1B). doi:10.1186/2192-1709-2-1 (https://doi.org/10.1186%2F2192-1709-2-1).
+ 108. Algeo, Thomas J.; Scheckler, Stephen E. (January 29, 1998). "Terrestrial-marine teleconnections in the Devonian: links
+ between the evolution of land plants, weathering processes, and marine anoxic events" (https://www.ncbi.nlm.nih.gov/pm
+ c/articles/PMC1692181). Philosophical Transactions of the Royal Society B. 353 (1365): 113–130.
+ doi:10.1098/rstb.1998.0195 (https://doi.org/10.1098%2Frstb.1998.0195). PMC 1692181 (https://www.ncbi.nlm.nih.gov/pm
+ c/articles/PMC1692181).
+ 109. Jun-Yuan, Chen; Oliveri, Paola; Chia-Wei, Li; et al. (April 25, 2000). "Precambrian animal diversity: Putative phosphatized
+ embryos from the Doushantuo Formation of China" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC18256). Proc. Natl.
+ Acad. Sci. U.S.A. 97 (9): 4457–4462. Bibcode:2000PNAS...97.4457C (https://ui.adsabs.harvard.edu/abs/2000PNAS...97.
+ 4457C). doi:10.1073/pnas.97.9.4457 (https://doi.org/10.1073%2Fpnas.97.9.4457). PMC 18256 (https://www.ncbi.nlm.nih.
+ gov/pmc/articles/PMC18256). PMID 10781044 (https://pubmed.ncbi.nlm.nih.gov/10781044).
+ 110. D-G., Shu; H-L., Luo; Conway Morris, Simon; et al. (November 4, 1999). "Lower Cambrian vertebrates from south China"
+ (https://web.archive.org/web/20090226122732/http://www.bios.niu.edu/davis/bios458/Shu1.pdf) (PDF). Nature. 402
+ (6757): 42–46. Bibcode:1999Natur.402...42S (https://ui.adsabs.harvard.edu/abs/1999Natur.402...42S). doi:10.1038/46965
+ (https://doi.org/10.1038%2F46965). S2CID 4402854 (https://api.semanticscholar.org/CorpusID:4402854). Archived from
+ the original (http://www.bios.niu.edu/davis/bios458/Shu1.pdf) (PDF) on 2009-02-26. Retrieved 2015-01-22.
+ 111. Hoyt, Donald F. (February 17, 1997). "Synapsid Reptiles" (https://web.archive.org/web/20090520072737/http://www.csupo
+ mona.edu/~dfhoyt/classes/zoo138/SYNAPSID.HTML). ZOO 138 Vertebrate Zoology (Lecture). Pomona, Calif.: California
+ State Polytechnic University, Pomona. Archived from the original (http://www.csupomona.edu/~dfhoyt/classes/zoo138/SY
+ NAPSID.HTML) on 2009-05-20. Retrieved 2015-01-22.
+ 112. Barry, Patrick L. (January 28, 2002). Phillips, Tony (ed.). "The Great Dying" (https://science.nasa.gov/science-news/scienc
+ e-at-nasa/2002/28jan_extinction/). Science@NASA. Marshall Space Flight Center. Archived (https://web.archive.org/web/
+ 20100410015208/https://science.nasa.gov/science-news/science-at-nasa/2002/28jan_extinction/) from the original on
+ 2010-04-10. Retrieved 2015-01-22.
+ 113. Tanner, Lawrence H.; Lucas, Spencer G.; Chapman, Mary G. (March 2004). "Assessing the record and causes of Late
+ Triassic extinctions" (https://web.archive.org/web/20071025225841/http://nmnaturalhistory.org/pdf_files/TJB.pdf) (PDF).
+ Earth-Science Reviews. 65 (1–2): 103–139. Bibcode:2004ESRv...65..103T (https://ui.adsabs.harvard.edu/abs/2004ESR
+ v...65..103T). doi:10.1016/S0012-8252(03)00082-5 (https://doi.org/10.1016%2FS0012-8252%2803%2900082-5).
+ Archived from the original (http://nmnaturalhistory.org/pdf_files/TJB.pdf) (PDF) on 2007-10-25. Retrieved 2007-10-22.
+ 114. Benton, Michael J. (1997). Vertebrate Palaeontology (2nd ed.). London: Chapman & Hall. ISBN 978-0-412-73800-5.
+ OCLC 37378512 (https://search.worldcat.org/oclc/37378512).
+ 115. Fastovsky, David E.; Sheehan, Peter M. (March 2005). "The Extinction of the Dinosaurs in North America" (https://www.ge
+ osociety.org/gsatoday/archive/15/3/pdf/i1052-5173-15-3-4.pdf) (PDF). GSA Today. 15 (3): 4–10. doi:10.1130/1052
+5173(2005)015<4:TEOTDI>2.0.CO;2 (https://doi.org/10.1130%2F1052-5173%282005%29015%3C4%3ATEOTDI%3E2.0.
+ CO%3B2). Archived (https://web.archive.org/web/20190322190338/https://www.geosociety.org/gsatoday/archive/15/3/pdf/
+ i1052-5173-15-3-4.pdf) (PDF) from the original on 2019-03-22. Retrieved 2015-01-23.
+ 116. Roach, John (June 20, 2007). "Dinosaur Extinction Spurred Rise of Modern Mammals" (https://web.archive.org/web/2008
+ 0511161825/https://news.nationalgeographic.com/news/2007/06/070620-mammals-dinos.html). National Geographic
+ News. Washington, D.C.: National Geographic Society. Archived from the original (https://news.nationalgeographic.com/n
+ ews/2007/06/070620-mammals-dinos.html) on 2008-05-11. Retrieved 2020-02-21.
+ Wible, John R.; Rougier, Guillermo W.; Novacek, Michael J.; et al. (June 21, 2007). "Cretaceous eutherians and
+ Laurasian origin for placental mammals near the K/T boundary". Nature. 447 (7147): 1003–1006.
+ Bibcode:2007Natur.447.1003W (https://ui.adsabs.harvard.edu/abs/2007Natur.447.1003W). doi:10.1038/nature05854
+ (https://doi.org/10.1038%2Fnature05854). PMID 17581585 (https://pubmed.ncbi.nlm.nih.gov/17581585).
+ S2CID 4334424 (https://api.semanticscholar.org/CorpusID:4334424).
+ 117. Van Valkenburgh, Blaire (May 1, 1999). "Major Patterns in the History of Carnivorous Mammals" (https://zenodo.org/recor
+ d/890156). Annual Review of Earth and Planetary Sciences. 27: 463–493. Bibcode:1999AREPS..27..463V (https://ui.adsa
+ bs.harvard.edu/abs/1999AREPS..27..463V). doi:10.1146/annurev.earth.27.1.463 (https://doi.org/10.1146%2Fannurev.eart
+ h.27.1.463). Archived (https://web.archive.org/web/20200229201201/https://zenodo.org/record/890156) from the original
+ on February 29, 2020. Retrieved May 15, 2021.
+118. Fredrickson, J. K.; Zachara, J. M.; Balkwill, D. L. (July 2004). "Geomicrobiology of high-level nuclear waste-contaminated
+ vadose sediments at the Hanford site, Washington state" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC444790). Applied
+ and Environmental Microbiology. 70 (7): 4230–41. Bibcode:2004ApEnM..70.4230F (https://ui.adsabs.harvard.edu/abs/200
+ 4ApEnM..70.4230F). doi:10.1128/AEM.70.7.4230-4241.2004 (https://doi.org/10.1128%2FAEM.70.7.4230-4241.2004).
+ PMC 444790 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC444790). PMID 15240306 (https://pubmed.ncbi.nlm.nih.gov/
+ 15240306).
+ 119. Dudek, N. K.; Sun, C. L.; Burstein, D. (2017). "Novel Microbial Diversity and Functional Potential in the Marine Mammal
+ Oral Microbiome" (https://escholarship.org/content/qt1w91s3vq/qt1w91s3vq.pdf?t=pghuwe) (PDF). Current Biology. 27
+ (24): 3752–3762. Bibcode:2017CBio...27E3752D (https://ui.adsabs.harvard.edu/abs/2017CBio...27E3752D).
+ doi:10.1016/j.cub.2017.10.040 (https://doi.org/10.1016%2Fj.cub.2017.10.040). PMID 29153320 (https://pubmed.ncbi.nlm.
+ nih.gov/29153320). S2CID 43864355 (https://api.semanticscholar.org/CorpusID:43864355). Archived (https://web.archive.
+ org/web/20210308145807/https://escholarship.org/content/qt1w91s3vq/qt1w91s3vq.pdf?t=pghuwe) (PDF) from the
+ original on 2021-03-08. Retrieved 2021-05-14.
+ 120. Pace, N. R. (May 2006). "Time for a change" (https://doi.org/10.1038%2F441289a). Nature. 441 (7091): 289.
+ Bibcode:2006Natur.441..289P (https://ui.adsabs.harvard.edu/abs/2006Natur.441..289P). doi:10.1038/441289a (https://doi.
+ org/10.1038%2F441289a). PMID 16710401 (https://pubmed.ncbi.nlm.nih.gov/16710401). S2CID 4431143 (https://api.sem
+ anticscholar.org/CorpusID:4431143).
+ 121. Stoeckenius, W. (October 1981). "Walsby's square bacterium: fine structure of an orthogonal procaryote" (https://www.ncb
+ i.nlm.nih.gov/pmc/articles/PMC216199). Journal of Bacteriology. 148 (1): 352–60. doi:10.1128/JB.148.1.352-360.1981 (htt
+ ps://doi.org/10.1128%2FJB.148.1.352-360.1981). PMC 216199 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC216199).
+ PMID 7287626 (https://pubmed.ncbi.nlm.nih.gov/7287626).
+ 122. "Archaea Basic Biology" (https://basicbiology.net/micro/microorganisms/archaea). March 2018. Archived (https://web.archi
+ ve.org/web/20210428221114/https://basicbiology.net/micro/microorganisms/archaea) from the original on 2021-04-28.
+ Retrieved 2021-05-14.
+ 123. Bang, C.; Schmitz, R. A. (September 2015). "Archaea associated with human surfaces: not to be underestimated" (https://
+ doi.org/10.1093%2Ffemsre%2Ffuv010). FEMS Microbiology Reviews. 39 (5): 631–48. doi:10.1093/femsre/fuv010 (https://
+ doi.org/10.1093%2Ffemsre%2Ffuv010). PMID 25907112 (https://pubmed.ncbi.nlm.nih.gov/25907112).
+ 124. Moissl-Eichinger. C.; Pausan, M.; Taffner, J.; Berg, G.; Bang, C.; Schmitz, R. A. (January 2018). "Archaea Are Interactive
+ Components of Complex Microbiomes". Trends in Microbiology. 26 (1): 70–85. doi:10.1016/j.tim.2017.07.004 (https://doi.o
+ rg/10.1016%2Fj.tim.2017.07.004). PMID 28826642 (https://pubmed.ncbi.nlm.nih.gov/28826642).
+ 125. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "The origin and diversification of eukaryotes".
+ Principles of Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 402–419. ISBN 978-1464175121.
+ 126. O'Malley, Maureen A.; Leger, Michelle M.; Wideman, Jeremy G.; Ruiz-Trillo, Iñaki (2019-02-18). "Concepts of the last
+ eukaryotic common ancestor". Nature Ecology & Evolution. 3 (3). Springer Science and Business Media LLC: 338–344.
+ Bibcode:2019NatEE...3..338O (https://ui.adsabs.harvard.edu/abs/2019NatEE...3..338O). doi:10.1038/s41559-019-0796-3
+ (https://doi.org/10.1038%2Fs41559-019-0796-3). hdl:10261/201794 (https://hdl.handle.net/10261%2F201794).
+ PMID 30778187 (https://pubmed.ncbi.nlm.nih.gov/30778187). S2CID 67790751 (https://api.semanticscholar.org/CorpusI
+ D:67790751).
+ 127. Taylor, F. J. R. 'M. (2003-11-01). "The collapse of the two-kingdom system, the rise of protistology and the founding of the
+ International Society for Evolutionary Protistology (ISEP)" (https://doi.org/10.1099%2Fijs.0.02587-0). International Journal
+ of Systematic and Evolutionary Microbiology. 53 (6). Microbiology Society: 1707–1714. doi:10.1099/ijs.0.02587-0 (https://
+ doi.org/10.1099%2Fijs.0.02587-0). PMID 14657097 (https://pubmed.ncbi.nlm.nih.gov/14657097).
+ 128. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "The evolution of plants". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 420–449. ISBN 978-1464175121.
+ 129. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "The evolution and diversity of fungi". Principles of
+ Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 451–468. ISBN 978-1464175121.
+ 130. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Animal origins and diversity". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 469–519. ISBN 978-1464175121.
+ 131. Wu, K. J. (15 April 2020). "There are more viruses than stars in the universe. Why do only some infect us? – More than a
+ quadrillion quadrillion individual viruses exist on Earth, but most are not poised to hop into humans. Can we find the ones
+ that are?" (https://web.archive.org/web/20200528154701/https://www.nationalgeographic.com/science/2020/04/factors-all
+ ow-viruses-infect-humans-coronavirus/). National Geographic Society. Archived from the original (https://www.nationalgeo
+ graphic.com/science/2020/04/factors-allow-viruses-infect-humans-coronavirus/) on 28 May 2020. Retrieved 18 May 2020.
+ 132. Koonin, E. V.; Senkevich, T. G.; Dolja, V. V. (September 2006). "The ancient Virus World and evolution of cells" (https://ww
+ w.ncbi.nlm.nih.gov/pmc/articles/PMC1594570). Biology Direct. 1 (1): 29. doi:10.1186/1745-6150-1-29 (https://doi.org/10.1
+ 186%2F1745-6150-1-29). PMC 1594570 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1594570). PMID 16984643 (http
+ s://pubmed.ncbi.nlm.nih.gov/16984643).
+ 133. Zimmer, C. (26 February 2021). "The Secret Life of a Coronavirus - An oily, 100-nanometer-wide bubble of genes has
+ killed more than two million people and reshaped the world. Scientists don't quite know what to make of it" (https://ghostar
+ chive.org/archive/20211228/https://www.nytimes.com/2021/02/26/opinion/sunday/coronavirus-alive-dead.html). The New
+ York Times. Archived from the original (https://www.nytimes.com/2021/02/26/opinion/sunday/coronavirus-alive-dead.html)
+ on 2021-12-28. Retrieved 28 February 2021.
+ 134. "Virus Taxonomy: 2019 Release" (https://ictv.global/taxonomy). talk.ictvonline.org. International Committee on Taxonomy
+ of Viruses. Archived (https://web.archive.org/web/20200320103754/https://talk.ictvonline.org/taxonomy) from the original
+ on 20 March 2020. Retrieved 25 April 2020.
+135. Lawrence C. M.; Menon S.; Eilers, B. J. (May 2009). "Structural and functional studies of archaeal viruses" (https://www.nc
+ bi.nlm.nih.gov/pmc/articles/PMC2675988). The Journal of Biological Chemistry. 284 (19): 12599–603.
+ doi:10.1074/jbc.R800078200 (https://doi.org/10.1074%2Fjbc.R800078200). PMC 2675988 (https://www.ncbi.nlm.nih.gov/
+ pmc/articles/PMC2675988). PMID 19158076 (https://pubmed.ncbi.nlm.nih.gov/19158076).
+ 136. Edwards, R.A.; Rohwer, F. (June 2005). "Viral metagenomics". Nature Reviews. Microbiology. 3 (6): 504–10.
+ doi:10.1038/nrmicro1163 (https://doi.org/10.1038%2Fnrmicro1163). PMID 15886693 (https://pubmed.ncbi.nlm.nih.gov/15
+ 886693). S2CID 8059643 (https://api.semanticscholar.org/CorpusID:8059643).
+ 137. Canchaya, C.; Fournous, G.; Chibani-Chennoufi, S. (August 2003). "Phage as agents of lateral gene transfer". Current
+ Opinion in Microbiology. 6 (4): 417–24. doi:10.1016/S1369-5274(03)00086-9 (https://doi.org/10.1016%2FS1369-5274%28
+ 03%2900086-9). PMID 12941415 (https://pubmed.ncbi.nlm.nih.gov/12941415).
+ 138. Rybicki, E. P. (1990). "The classification of organisms at the edge of life, or problems with virus systematics". South
+ African Journal of Science. 86: 182–86.
+ 139. Koonin, E. V.; Starokadomskyy, P. (October 2016). "Are viruses alive? The replicator paradigm sheds decisive light on an
+ old but misguided question" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5406846). Studies in History and Philosophy
+ of Biological and Biomedical Sciences. 59: 125–134. doi:10.1016/j.shpsc.2016.02.016 (https://doi.org/10.1016%2Fj.shpsc.
+ 2016.02.016). PMC 5406846 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5406846). PMID 26965225 (https://pubmed.
+ ncbi.nlm.nih.gov/26965225).
+ 140. Begon, M; Townsend, CR; Harper, JL (2006). Ecology: From individuals to ecosystems (4th ed.). Blackwell. ISBN 978-1
+4051-1117-1.
+ 141. Habitats of the world (https://books.google.com/books?id=U-_mlcy8rGgC&pg=PA238). New York: Marshall Cavendish.
+ 2004. p. 238. ISBN 978-0-7614-7523-1. Archived (https://web.archive.org/web/20210415113154/https://books.google.co
+ m/books?id=U-_mlcy8rGgC&pg=PA238) from the original on 2021-04-15. Retrieved 2020-08-24.
+ 142. Tansley (1934); Molles (1999), p. 482; Chapin et al. (2002), p. 380; Schulze et al. (2005); p. 400; Gurevitch et al. (2006),
+ p. 522; Smith & Smith 2012, p. G-5
+ 143. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "The distribution of Earth's ecological systems".
+ Principles of Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 845–863. ISBN 978-1464175121.
+ 144. Odum, Eugene P (1971). Fundamentals of Ecology (https://archive.org/details/fundamentalsofec0000odum) (3rd ed.).
+ New York: Saunders. ISBN 978-0-534-42066-6.
+ 145. Chapin III, F. Stuart; Matson, Pamela A.; Mooney, Harold A. (2002). "The ecosystem concept". Principles of Terrestrial
+ Ecosystem Ecology. New York: Springer. p. 10. ISBN 978-0-387-95443-1.
+ 146. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Populations". Principles of Life (2nd ed.).
+ Sunderland, Mass.: Sinauer Associates. pp. 864–897. ISBN 978-1464175121.
+ 147. Urry, Lisa; Cain, Michael; Wasserman, Steven; Minorsky, Peter; Reece, Jane (2017). "Population ecology". Campbell
+ Biology (11th ed.). New York: Pearson. pp. 1188–1211. ISBN 978-0134093413.
+ 148. "Population" (http://www.biology-online.org/dictionary/Population). Biology Online. Archived (https://web.archive.org/web/2
+ 0190413145351/https://www.biology-online.org/dictionary/Population) from the original on 13 April 2019. Retrieved
+ 5 December 2012.
+ 149. "Definition of population (biology)" (https://web.archive.org/web/20160304104019/http://www.oxforddictionaries.com/definit
+ ion/english/population?q=population). Oxford Dictionaries. Oxford University Press. Archived from the original (http://oxfor
+ ddictionaries.com/definition/english/population?q=population) on 4 March 2016. Retrieved 5 December 2012. "a
+ community of animals, plants, or humans among whose members interbreeding occurs"
+ 150. Hartl, Daniel (2007). Principles of Population Genetics. Sinauer Associates. p. 45. ISBN 978-0-87893-308-2.
+ 151. Chapman, Eric J.; Byron, Carrie J. (2018-01-01). "The flexible application of carrying capacity in ecology" (https://doi.org/1
+ 0.1016%2Fj.gecco.2017.e00365). Global Ecology and Conservation. 13: e00365. Bibcode:2018GEcoC..1300365C (http
+ s://ui.adsabs.harvard.edu/abs/2018GEcoC..1300365C). doi:10.1016/j.gecco.2017.e00365 (https://doi.org/10.1016%2Fj.ge
+ cco.2017.e00365).
+ 152. Odum, E. P.; Barrett, G. W. (2005). Fundamentals of Ecology (https://web.archive.org/web/20110820163059/http://www.ce
+ ngage.com/aushed/instructor.do?disciplinenumber=1041&product_isbn=9780534420666&courseid=BI03&codeid=2BF6&
+ subTab=&mainTab=About_the_Book&mailFlag=true&topicName=) (5th ed.). Brooks/Cole, a part of Cengage Learning.
+ ISBN 978-0-534-42066-6. Archived from the original (http://www.cengage.com/aushed/instructor.do?disciplinenumber=10
+ 41&product_isbn=9780534420666&courseid=BI03&codeid=2BF6&subTab=&mainTab=About_the_Book&mailFlag=true&t
+ opicName=) on 2011-08-20.
+ 153. Sanmartín, Isabel (December 2012). "Historical Biogeography: Evolution in Time and Space" (https://doi.org/10.1007%2F
+ s12052-012-0421-2). Evolution: Education and Outreach. 5 (4): 555–568. doi:10.1007/s12052-012-0421-2 (https://doi.org/
+ 10.1007%2Fs12052-012-0421-2). hdl:10261/167031 (https://hdl.handle.net/10261%2F167031). ISSN 1936-6434 (https://
+ search.worldcat.org/issn/1936-6434).
+ 154. Wootton, JT; Emmerson, M (2005). "Measurement of Interaction Strength in Nature". Annual Review of Ecology,
+ Evolution, and Systematics. 36: 419–44. doi:10.1146/annurev.ecolsys.36.091704.175535 (https://doi.org/10.1146%2Fann
+ urev.ecolsys.36.091704.175535). JSTOR 30033811 (https://www.jstor.org/stable/30033811).
+ 155. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Ecological and evolutionary consequences within
+ and among species". Principles of Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 882–897. ISBN 978
+1464175121.
+ 156. Smith, AL (1997). Oxford dictionary of biochemistry and molecular biology. Oxford [Oxfordshire]: Oxford University Press.
+ p. 508. ISBN 978-0-19-854768-6. "Photosynthesis – the synthesis by organisms of organic chemical compounds, esp.
+ carbohydrates, from carbon dioxide using energy obtained from light rather than the oxidation of chemical compounds."
+ 157. Edwards, Katrina. "Microbiology of a Sediment Pond and the Underlying Young, Cold, Hydrologically Active Ridge Flank".
+ Woods Hole Oceanographic Institution.
+158. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "Ecological communities". Principles of Life
+ (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 898–915. ISBN 978-1464175121.
+ 159. Riebeek, Holli (16 June 2011). "The Carbon Cycle" (https://earthobservatory.nasa.gov/Features/CarbonCycle/?src=eoa-fe
+ atures). Earth Observatory. NASA. Archived (https://web.archive.org/web/20160305010126/http://earthobservatory.nasa.g
+ ov/Features/CarbonCycle/?src=eoa-features) from the original on 5 March 2016. Retrieved 5 April 2018.
+ 160. Hillis, David M.; Sadava, David; Hill, Richard W.; Price, Mary V. (2014). "The distribution of Earth's ecological systems".
+ Principles of Life (2nd ed.). Sunderland, Mass.: Sinauer Associates. pp. 916–934. ISBN 978-1464175121.
+ 161. Sahney, S.; Benton, M. J (2008). "Recovery from the most profound mass extinction of all time" (https://www.ncbi.nlm.nih.
+ gov/pmc/articles/PMC2596898). Proceedings of the Royal Society B: Biological Sciences. 275 (1636): 759–65.
+ doi:10.1098/rspb.2007.1370 (https://doi.org/10.1098%2Frspb.2007.1370). PMC 2596898 (https://www.ncbi.nlm.nih.gov/p
+ mc/articles/PMC2596898). PMID 18198148 (https://pubmed.ncbi.nlm.nih.gov/18198148).
+ 162. Soulé, Michael E.; Wilcox, Bruce A. (1980). Conservation biology: an evolutionary-ecological perspective. Sunderland,
+ Mass.: Sinauer Associates. ISBN 978-0-87893-800-1.
+ 163. Soulé, Michael E. (1986). "What is Conservation Biology?" (https://web.archive.org/web/20190412085412/http://www.mich
+ aelsoule.com/resource_files/85/85_resource_file1.pdf) (PDF). BioScience. 35 (11). American Institute of Biological
+ Sciences: 727–34. doi:10.2307/1310054 (https://doi.org/10.2307%2F1310054). JSTOR 1310054 (https://www.jstor.org/sta
+ ble/1310054). Archived from the original (http://www.michaelsoule.com/resource_files/85/85_resource_file1.pdf) (PDF) on
+ 2019-04-12. Retrieved 2021-05-15.
+ 164. Hunter, Malcolm L. (1996). Fundamentals of conservation biology (https://archive.org/details/fundamentalsofco00hunt).
+ Oxford: Blackwell Science. ISBN 978-0-86542-371-8.
+ 165. Meffe, Gary K.; Martha J. Groom (2006). Principles of conservation biology (3rd ed.). Sunderland, Mass.: Sinauer
+ Associates. ISBN 978-0-87893-518-5.
+ 166. Van Dyke, Fred (2008). Conservation biology: foundations, concepts, applications (https://books.google.com/books?id=Ev
+ h1UD3ZYWcC) (2nd ed.). New York: Springer-Verlag. doi:10.1007/978-1-4020-6891-1 (https://doi.org/10.1007%2F978-1
+4020-6891-1). hdl:11059/14777 (https://hdl.handle.net/11059%2F14777). ISBN 978-1402068904. OCLC 232001738 (http
+ s://search.worldcat.org/oclc/232001738). Archived (https://web.archive.org/web/20200727115147/https://books.google.co
+ m/books?id=Evh1UD3ZYWcC) from the original on 2020-07-27. Retrieved 2021-05-15.
+ 167. Sahney, S.; Benton, M. J.; Ferry, P. A. (2010). "Links between global taxonomic diversity, ecological diversity and the
+ expansion of vertebrates on land" (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936204). Biology Letters. 6 (4): 544–7.
+ doi:10.1098/rsbl.2009.1024 (https://doi.org/10.1098%2Frsbl.2009.1024). PMC 2936204 (https://www.ncbi.nlm.nih.gov/pm
+ c/articles/PMC2936204). PMID 20106856 (https://pubmed.ncbi.nlm.nih.gov/20106856).
+ 168. Koh, Lian Pin; Dunn, Robert R.; Sodhi, Navjot S.; Colwell, Robert K.; Proctor, Heather C.; Smith, Vincent S. (2004).
+ "Species coextinctions and the biodiversity crisis". Science. 305 (5690): 1632–4. Bibcode:2004Sci...305.1632K (https://ui.
+ adsabs.harvard.edu/abs/2004Sci...305.1632K). doi:10.1126/science.1101101 (https://doi.org/10.1126%2Fscience.110110
+ 1). PMID 15361627 (https://pubmed.ncbi.nlm.nih.gov/15361627). S2CID 30713492 (https://api.semanticscholar.org/Corpu
+ sID:30713492).
+ 169. Millennium Ecosystem Assessment (2005). Ecosystems and Human Well-being: Biodiversity Synthesis. World Resources
+ Institute, Washington, D.C.[1] (http://www.millenniumassessment.org/documents/document.354.aspx.pdf) Archived (http
+ s://web.archive.org/web/20191014033601/http://www.millenniumassessment.org/documents/document.354.aspx.pdf)
+ 2019-10-14 at the Wayback Machine
+ 170. Jackson, J. B. C. (2008). "Ecological extinction and evolution in the brave new ocean" (https://www.ncbi.nlm.nih.gov/pmc/
+ articles/PMC2556419). Proceedings of the National Academy of Sciences. 105 (Suppl 1): 11458–65.
+ Bibcode:2008PNAS..10511458J (https://ui.adsabs.harvard.edu/abs/2008PNAS..10511458J).
+ doi:10.1073/pnas.0802812105 (https://doi.org/10.1073%2Fpnas.0802812105). PMC 2556419 (https://www.ncbi.nlm.nih.g
+ ov/pmc/articles/PMC2556419). PMID 18695220 (https://pubmed.ncbi.nlm.nih.gov/18695220).
+ 171. Soule, Michael E. (1986). Conservation Biology: The Science of Scarcity and Diversity. Sinauer Associates. p. 584.
+ ISBN 978-0-87893-795-0.
+ Alberts, B.; Johnson, A.; Lewis, J.; Raff, M.; Roberts, K.; Walter, P. (2002). Molecular Biology of the Cell (https://archive.or
+ g/details/molecularbiolog000wils) (4th ed.). Garland. ISBN 978-0-8153-3218-3. OCLC 145080076 (https://search.worldca
+ t.org/oclc/145080076).
+ Begon, M.; Townsend, C. R.; Harper, J. L. (2005). Ecology: From Individuals to Ecosystems (4th ed.). Blackwell Publishing
+ Limited. ISBN 978-1-4051-1117-1. OCLC 57639896 (https://search.worldcat.org/oclc/57639896).
+ Campbell, Neil (2004). Biology (7th ed.). Benjamin-Cummings Publishing Company. ISBN 978-0-8053-7146-8.
+ OCLC 71890442 (https://search.worldcat.org/oclc/71890442).
+ Colinvaux, Paul (1979). Why Big Fierce Animals are Rare: An Ecologist's Perspective (https://archive.org/details/whybigfie
+ rceanim00paul) (reissue ed.). Princeton University Press. ISBN 978-0-691-02364-9. OCLC 10081738 (https://search.worl
+ dcat.org/oclc/10081738).
+ Mayr, Ernst (1982). The Growth of Biological Thought: Diversity, Evolution, and Inheritance (https://books.google.com/boo
+ ks?id=pHThtE2R0UQC). Harvard University Press. ISBN 978-0-674-36446-2. Archived (https://web.archive.org/web/2015
+ 1003080726/https://books.google.com/books?id=pHThtE2R0UQC) from the original on 2015-10-03. Retrieved
+ 2015-06-27.
+ Hoagland, Mahlon (2001). The Way Life Works. Jones and Bartlett Publishers inc. ISBN 978-0-7637-1688-2.
+ OCLC 223090105 (https://search.worldcat.org/oclc/223090105).
+ Further reading
+Janovy, John (2004). On Becoming a Biologist (2nd ed.). Bison Books. ISBN 978-0-8032-7620-8. OCLC 55138571 (http
+ s://search.worldcat.org/oclc/55138571).
+ Johnson, George B. (2005). Biology, Visualizing Life (https://archive.org/details/holtbiologyvisua00john). Holt, Rinehart,
+ and Winston. ISBN 978-0-03-016723-2. OCLC 36306648 (https://search.worldcat.org/oclc/36306648).
+ Tobin, Allan; Dusheck, Jennie (2005). Asking About Life (3rd ed.). Belmont, California: Wadsworth. ISBN 978-0-534
+40653-0.
+ OSU's Phylocode (http://phylonames.org/code/)
+ Biology Online – Wiki Dictionary (https://www.biologyonline.com/dictionary)
+ MIT video lecture series on biology (https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-2004/)
+ OneZoom Tree of Life (https://www.onezoom.org/)
+ Journal of the History of Biology (springer.com) (https://link.springer.com/journal/10739)
+ Journal links
+ PLOS ONE
+ PLOS Biology (https://journals.plos.org/plosbiology/) A peer-reviewed, open-access journal published by the Public Library
+ of Science
+ Current Biology (http://www.cell.com/current-biology/): General journal publishing original research from all areas of
+ biology
+ Biology Letters (https://royalsocietypublishing.org/journal/rsbl): A high-impact Royal Society journal publishing peer
+reviewed biology papers of general interest
+ Science (https://www.science.org/collections): Internationally renowned AAAS science journal – see sections of the life
+ sciences
+ International Journal of Biological Sciences (https://www.ijbs.com/): A biological journal publishing significant peer
+reviewed scientific papers
+ Perspectives in Biology and Medicine (https://www.press.jhu.edu/journals/perspectives-biology-and-medicine): An
+ interdisciplinary scholarly journal publishing essays of broad relevance
+ Retrieved from "https://en.wikipedia.org/w/index.php?title=Biology&oldid=1302524267"
+ External links
