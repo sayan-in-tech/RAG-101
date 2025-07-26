@@ -6,7 +6,7 @@ embedding_model = HuggingFaceEmbeddings(model_name="sentence-transformers/all-Mi
 
 vectorstore = FAISS.load_local("faiss_index", embedding_model, allow_dangerous_deserialization=True)
 
-llm = pipeline("text-generation", model="mistralai/Mistral-7B-Instruct-v0.1")
+llm = pipeline("text-generation", model="sshleifer/tiny-gpt2")
 
 while(True):
     query = input("You: ")
